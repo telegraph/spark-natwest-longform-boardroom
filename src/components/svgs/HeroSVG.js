@@ -7,2135 +7,1208 @@ export default function HeroSVG() {
   // Define Wifi refs
 
   return (
-    <svg viewBox="0 0 575.17 486.85">
+    <svg width={506.76} height={536.36}>
       <defs>
         <linearGradient
-          id="prefix__New_Gradient_Swatch-25"
-          x1={64.26}
-          x2={70.14}
-          y1={416.28}
-          y2={419.93}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__u"
+          x1={258.68}
+          y1={285.08}
+          x2={264.39}
+          y2={285.08}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch"
-          x1={14705.55}
-          x2={14718.01}
-          y1={196.5}
-          y2={202}
-          gradientTransform="matrix(-1 0 0 1 15092.6 0)"
+          id="prefix__G"
+          x1={167.97}
+          y1={32.59}
+          x2={194.07}
+          y2={32.59}
+          xlinkHref="#prefix__a"
+        />
+        <linearGradient
+          id="prefix__d"
+          x1={269.62}
+          y1={385.09}
+          x2={308.33}
+          y2={424.74}
+          xlinkHref="#prefix__a"
+        />
+        <linearGradient
+          id="prefix__e"
+          x1={314.96}
+          y1={388.88}
+          x2={353.68}
+          y2={428.54}
+          xlinkHref="#prefix__a"
+        />
+        <linearGradient
+          id="prefix__f"
+          x1={233.94}
+          y1={375.55}
+          x2={272.65}
+          y2={415.2}
+          xlinkHref="#prefix__a"
+        />
+        <linearGradient
+          id="prefix__g"
+          x1={253.3}
+          y1={364.22}
+          x2={292.01}
+          y2={403.87}
+          xlinkHref="#prefix__a"
+        />
+        <linearGradient
+          id="prefix__h"
+          x1={288.96}
+          y1={373.71}
+          x2={327.68}
+          y2={413.37}
+          xlinkHref="#prefix__a"
+        />
+        <linearGradient
+          id="prefix__i"
+          x1={217.62}
+          y1={354.68}
+          x2={256.33}
+          y2={394.34}
+          xlinkHref="#prefix__a"
+        />
+        <linearGradient
+          id="prefix__j"
+          x1={236.97}
+          y1={343.31}
+          x2={275.68}
+          y2={382.96}
+          xlinkHref="#prefix__a"
+        />
+        <linearGradient
+          id="prefix__a"
+          x1={259.94}
+          y1={390.73}
+          x2={298.65}
+          y2={430.38}
+          gradientTransform="matrix(1 0 0 -1 0 536)"
           gradientUnits="userSpaceOnUse"
         >
           <stop offset={0} stopColor="#f6f3f7" />
           <stop offset={1} stopColor="#77488a" />
         </linearGradient>
         <linearGradient
-          id="prefix__New_Gradient_Swatch-3"
-          x1={14602.25}
-          x2={14614.72}
-          y1={103.63}
-          y2={109.12}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__r"
+          x1={410.59}
+          y1={102.1}
+          x2={506.26}
+          y2={73.94}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-4"
-          x1={14609.97}
-          x2={14612.28}
-          y1={109.93}
-          y2={112.93}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__s"
+          x1={856.94}
+          y1={106.71}
+          x2={905.1}
+          y2={80.1}
+          gradientTransform="rotate(180 639.015 268)"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop offset={0} stopColor="#f6f3f7" />
+          <stop offset={1} stopColor="#fff" />
+        </linearGradient>
+        <linearGradient
+          id="prefix__c"
+          x1={295.61}
+          y1={400.24}
+          x2={334.32}
+          y2={439.9}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-5"
-          x1={340.19}
-          x2={406.89}
-          y1={277.89}
-          y2={346.72}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__v"
+          x1={256.53}
+          y1={292.59}
+          x2={269.94}
+          y2={306.72}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-6"
-          x1={182.5}
-          x2={194.97}
-          y1={320.31}
-          y2={325.81}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__w"
+          x1={259.86}
+          y1={286.83}
+          x2={268.56}
+          y2={293.21}
+          gradientTransform="matrix(.5 .86 .86 -.5 -119.12 164.85)"
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-7"
-          x1={190.22}
-          x2={192.54}
-          y1={326.62}
-          y2={329.62}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__x"
+          x1={263.54}
+          y1={274.77}
+          x2={285.35}
+          y2={282.49}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-8"
-          x1={269.73}
-          x2={282.2}
-          y1={182.59}
-          y2={188.09}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__y"
+          x1={273}
+          y1={285.67}
+          x2={283.99}
+          y2={285.67}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-9"
-          x1={277.45}
-          x2={279.77}
-          y1={188.9}
-          y2={191.9}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__z"
+          x1={274.78}
+          y1={290.8}
+          x2={283.99}
+          y2={290.8}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-10"
-          x1={14552.63}
-          x2={14565.1}
-          y1={280.4}
-          y2={285.9}
-          gradientTransform="matrix(-1 0 0 1 14840 0)"
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__A"
+          x1={279.26}
+          y1={274.63}
+          x2={284.96}
+          y2={274.63}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-11"
-          x1={14560.35}
-          x2={14562.67}
-          y1={286.7}
-          y2={289.7}
-          gradientTransform="matrix(-1 0 0 1 14840 0)"
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__B"
+          x1={277.13}
+          y1={282.1}
+          x2={290.54}
+          y2={296.22}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-12"
-          x1={418.92}
-          x2={431.39}
-          y1={146.69}
-          y2={152.19}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__C"
+          x1={280.44}
+          y1={276.35}
+          x2={289.14}
+          y2={282.73}
+          gradientTransform="matrix(.5 .86 .86 -.5 -99.83 152.27)"
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-13"
-          x1={426.64}
-          x2={428.96}
-          y1={152.99}
-          y2={155.99}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__D"
+          x1={261.49}
+          y1={298.45}
+          x2={288.48}
+          y2={312.46}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-14"
-          x1={15414.83}
-          x2={15457.53}
-          y1={128.6}
-          y2={172.66}
-          gradientTransform="matrix(-1 0 0 1 15884.5 0)"
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__E"
+          x1={196.73}
+          y1={231.24}
+          x2={237.2}
+          y2={274.35}
+          xlinkHref="#prefix__a"
         />
         <linearGradient
-          id="prefix__New_Gradient_Swatch-15"
-          x1={268.26}
-          x2={285.25}
-          y1={439.59}
-          y2={448.55}
-          xlinkHref="#prefix__New_Gradient_Swatch"
+          id="prefix__F"
+          x1={58.39}
+          y1={113.96}
+          x2={179.31}
+          y2={4.13}
+          xlinkHref="#prefix__a"
         />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-16"
-          x1={95.65}
-          x2={101.53}
-          y1={397.77}
-          y2={401.42}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-17"
-          x1={100.46}
-          x2={106.34}
-          y1={400.59}
-          y2={404.24}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-18"
-          x1={105.28}
-          x2={111.16}
-          y1={403.41}
-          y2={407.06}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-19"
-          x1={85.18}
-          x2={91.06}
-          y1={403.94}
-          y2={407.59}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-20"
-          x1={90}
-          x2={95.88}
-          y1={406.76}
-          y2={410.41}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-21"
-          x1={94.82}
-          x2={100.7}
-          y1={409.58}
-          y2={413.23}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-22"
-          x1={74.72}
-          x2={80.6}
-          y1={410.11}
-          y2={413.76}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-23"
-          x1={79.54}
-          x2={85.42}
-          y1={412.93}
-          y2={416.58}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-24"
-          x1={84.36}
-          x2={90.24}
-          y1={415.75}
-          y2={419.4}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-2"
-          x1={14713.26}
-          x2={14715.58}
-          y1={202.8}
-          y2={205.8}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-26"
-          x1={69.08}
-          x2={74.96}
-          y1={419.1}
-          y2={422.75}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-27"
-          x1={73.89}
-          x2={79.77}
-          y1={421.92}
-          y2={425.57}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-28"
-          x1={53.8}
-          x2={59.68}
-          y1={422.45}
-          y2={426.1}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-29"
-          x1={58.61}
-          x2={64.49}
-          y1={425.27}
-          y2={428.92}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-30"
-          x1={63.43}
-          x2={69.31}
-          y1={428.09}
-          y2={431.74}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-31"
-          x1={14551.56}
-          x2={14568.55}
-          y1={388.97}
-          y2={397.93}
-          gradientTransform="matrix(-1 0 0 1 14666.2 0)"
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-32"
-          x1={526.39}
-          x2={532.27}
-          y1={213.14}
-          y2={216.79}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-33"
-          x1={531.21}
-          x2={537.09}
-          y1={215.96}
-          y2={219.61}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-34"
-          x1={536.02}
-          x2={541.9}
-          y1={218.78}
-          y2={222.43}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-35"
-          x1={515.93}
-          x2={521.81}
-          y1={219.31}
-          y2={222.96}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-36"
-          x1={520.74}
-          x2={526.62}
-          y1={222.13}
-          y2={225.78}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-37"
-          x1={525.56}
-          x2={531.44}
-          y1={224.95}
-          y2={228.6}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-38"
-          x1={505.46}
-          x2={511.34}
-          y1={225.48}
-          y2={229.13}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-39"
-          x1={510.28}
-          x2={516.16}
-          y1={228.3}
-          y2={231.95}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-40"
-          x1={515.1}
-          x2={520.98}
-          y1={231.12}
-          y2={234.77}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-41"
-          x1={495}
-          x2={500.88}
-          y1={231.65}
-          y2={235.3}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-42"
-          x1={499.82}
-          x2={505.7}
-          y1={234.47}
-          y2={238.12}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-43"
-          x1={504.64}
-          x2={510.52}
-          y1={237.29}
-          y2={240.94}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-44"
-          x1={484.54}
-          x2={490.42}
-          y1={237.82}
-          y2={241.47}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-45"
-          x1={489.36}
-          x2={495.24}
-          y1={240.64}
-          y2={244.29}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-46"
-          x1={494.17}
-          x2={500.05}
-          y1={243.46}
-          y2={247.11}
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <linearGradient
-          id="prefix__New_Gradient_Swatch-47"
-          x1={14120.82}
-          x2={14137.81}
-          y1={204.34}
-          y2={213.3}
-          gradientTransform="matrix(-1 0 0 1 14666.2 0)"
-          xlinkHref="#prefix__New_Gradient_Swatch"
-        />
-        <style>
-          {
-            '.prefix__cls-1{fill:#fff}.prefix__cls-2{fill:#f6f3f7}.prefix__cls-4{fill:#00b0bc}.prefix__cls-6{fill:#516cb3}.prefix__cls-7{fill:#33c0c9}.prefix__cls-8{fill:#6e89c7}.prefix__cls-11{fill:#4a6cb8}.prefix__cls-14{fill:#7a2296}.prefix__cls-16{fill:#a485b1}.prefix__cls-27{fill:#00bfc8}'
-          }
-        </style>
-      </defs>
-      <title>{'1-main_illo'}</title>
-      <g id="prefix__Layer_2" data-name="Layer 2">
-        <g id="prefix__NatWest-longform_3-digitisation-desktop">
+        <clipPath id="prefix__b">
           <path
-            d="M211.7 131.1h32.9v21.1h-33zm224.7-38.2v17l-15 8.9 12.4 7.2h-23l6.1-26.9 4.4 2.6 15.1-8.8z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M410.9 108.9h22.9v17h-23zm3.1-15.4l-11 6.5h-24.2V82.9l35.2-6.5v17.1z"
-            className="prefix__cls-1"
-          />
-          <path d="M403 82.9v17l11-6.4v-17l-11 6.4z" className="prefix__cls-2" />
-          <path
-            d="M490.6 78.1l-21.8 12.7h-50V73.7H443L490.6 61v17.1zm42 32.4l-13.9-13.3-23 14.1h-31L428 127.7h-31.4v18.9h26.2v8.3h-46.2L331.8 181l8.3 4.8 24.6-14.3h28L373 182.8l.1 14.6h-30.3l-8.2 4.8-13.8-8v17.2l8.2 4.8v-8.6h9v17.2h36.2l14.5 8.3 6.3 4.2h-44.8V253l-15.1 8.8h35.6l-10.7 6.3h-15.4l-12.3 7.2h-8.8L305 286v-5.6l-18.4-22h-55.1v17h22.7l9 5.3-21.8 12.7-41.5-8.3-20.2.2-10.4 2.8v17H184v9l11 6.4 2.5-1.5-.1 7.1 18.3 10.6 5 .5 42.6 4.7h-43.9l-8.6 5-30.2-17.4-60.2-9.3-47.1 5v17h45.5l16.4 9.5v10.9l7.3 4.1 12.6-7.3h32.4l9.6 5.5v8.3l22.4 13v-6.8l13.8 8h25.1v8.6l51.9 30h39.9l13.2-7.7v-15.7h41.5l25-14.5-.1-22.8-24.2-14-10 5.9-7-4v-8.8h29V334l10.1-5.9v-9l20.5-12-.3-56.7 17.5-10.2-.1-13V219L439 203.7h29.4V199l7.5-4.4h35.8L535 181h18.5v-17l-75.9-21.8 34.1-4-8.1-4.7 52.8 2.2 18.8-10.9v-17zm-109.8 36z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M338 207.7v17.1h36.2v-17l-36.1-.1zm-122.3 112v17l47.6-11.8-47.6-5.2z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M364.6 154.3L340 168.7l-8.2-4.7v17l8.2 4.8 24.6-14.3h8.5v-5.7l19.6-11.3h-28z"
-            className="prefix__cls-1"
-          />
-          <path d="M335 244.8h35.7v17h-35.6z" fill="#00afbb" />
-          <path
-            d="M575.2 107.8l-9.6-5.6-33-8.7-13.9-13.3-23 14.1h-31L428 115.6h-31.6l.1 14h26.3v8.3h-46.2L331.8 164l8.3 4.8 24.6-14.3h28L373 165.8l.1 14.6h-30.3l-8.2 4.8-13.8-8v17.3l8.2 4.7v-8.6h9v17.2h36.2l14.5 8.3 6.3 4.2h-44.8V236l-15.1 8.8h35.6l-10.7 6.3h-15.4l-12.3 7.2h-8.8L305 269v-5.6l-18.4-10.6h-55.2v5.6h22.7l9.2 5.2-21.9 12.8h-47.6l-14.1-8.1-10.5 6v13.8h26.6v9H184l11 6.4 5.2-3 6.1 3.5-9 5.2 18.4 10.5 5 .5 42.6 4.7h-43.9l-8.6 5-30.2-17.4h-100v8.6l-7.3 4.2h45.5l16.4 9.4v10.9l7.3 4.2 12.6-7.4h32.4l9.6 5.5v8.4l22.4 12.9v-6.8l13.8 8h25.1v8.7l51.9 29.9h39.9l13.2-7.7-27.2-15.7h68.7l25-14.6-.1-22.7-24.2-14-10 5.8-7-4v-8.7h29v-10.5l10.1-5.9v-9l20.5-12-.3-56.7 17.5-10.2-.1-13v-8.3l-26.3-15h29.4v-5l7.5-4.3h35.8L535 164h18.5v-11.7l-38.3-22-37.6-5 34.1-4-8.1-4.8 52.9 2.2zm-152.4 21.8z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M85 238.5h33.5l17.2 9.9h48.8l57.7-33.8h45.4l20.7-12-.2-20.9 8-4.6V160l-24-5.6-10.8-6.3-6.3 3.7-13-7.4h-44l-6.4 3.7 21.8 12.6h.8H218l-9.3-5.4-6 3.5-45.5-26.3-8.1 4.8v14.4l-5.3 3.1-8.3-4.8-9 5.3-11.3-3.7v17l20 11.6-8 4.6-5.7-3.3-54-17v17l11.2 6.5H51.6L0 187v17l49 28.2h25z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M85 221.5h33.5l17.2 9.9h48.8l57.7-33.8.3.1.2-.1h44.9l20.7-12-.2-20.9 8-4.6-24.5-14.2.6-8.4-10.9-6.3-6.3 3.7-13-7.5h-44l-6.4 3.7 21.8 12.6h.8H218l-9.3-5.4-6 3.5-45.5-26.3-8.1 4.8v14.4l-5.3 3.1-8.3-4.8-9 5.3-11.4-6.6.1 20 20 11.5-8 4.6-5.7-3.3h-54l11.2 6.5H51.6l-12.2-7L0 187l49 28.2h25z"
-            className="prefix__cls-4"
-          />
-          <path d="M422.9 137.9v-8.3h-26.4 26.3v8.3z" className="prefix__cls-1" />
-          <path
-            d="M575.2 107.8l-18.7 10.8-52.9-2.1 8.1 4.7-34 4 37.5 5 38.3 22V164H535l-23.3 13.5H476l-7.5 4.4v4.8H439l26.2 15.2v8.2h-23.8v6h-52.8l-14.4-8.3H338l-.1-17.2h-9v8.6l-8.1-4.7-.1-17.3 13.8 8 8.2-4.8H373v-14.6l19.5-11.4h-28L340 168.7l-8.3-4.7 45-26.1h46.2v-8.3h-26.4v-14h31.4l36.7-21.3h31l23.1-14.1 14 13.3 33 8.8 9.5 5.5z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M305 263.4v5.6l.1 14h-20.3l-44 25.5 13.5 7.9-11 6.3-27.6-3-18.3-10.5 9-5.2-6.2-3.5-5.1 3-11-6.4h11.8v-9h-26.6l-.1-13.7 10.5-6.1 14 8h47.7l21.9-12.6-9.1-5.3h-22.7v-5.6h55.1l18.4 10.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M316.1 160l-8 4.7.2 20.8-20.7 12h-45l-.2.2-.2-.1v-13.7h7.5v-17.7H239v5.3h-10.6l-10.1-6v-7.2l-.2-14.6h27.5l3.7 2.2h42.3L316 160z"
-            className="prefix__cls-8"
-          />
-          <path d="M329 190.6h9v17h-9z" className="prefix__cls-2" />
-          <path
-            d="M436.4 85.8v7l-15 8.9 12.4 7.2h-23V85.6l6.1-3.6 7.3 4.1v6.7l12.2-7zM414 76.4L403 83h-24.2l22.9-13.6 12.3 7.1zM490.6 61l-21.8 12.7h-50l8.5-5h15.8l13-7.7h34.5z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M142.5 349.8v17l12.6-7.4v-17l-12.6 7.4zm45-7.4v17l9.6 5.6v-17l-9.6-5.6zm32.1 37l13.7 8v-17l-13.8-8v17zM350.2 409v17l13.2-7.6v-17l-13.2 7.6zm-91.8-29.9v17l51.9 30v-17l-51.9-30zm146.5 6.5v17l25-14.5v-17l-25 14.5zm12.7-58.2v6.5l10.1-5.9v-17l-10.1 5.9v10.5zm50.8-145.5v17l7.5-4.4v-17l-7.5 4.4zm43.3-4.4v17L535 181v-17l-23.3 13.5zm-8.1-61l8.1 4.7v8.5l3.5.5 7 4 34.3 1.4v-17l-52.9-2.1zm-67.1-23.6v17l-2.7 1.7v-2.7l-12.5-7.2 15.2-8.8zm32.3-19.2v17.1l21.8-12.7v-17l-21.8 12.6zm-350 251.6v17l16.4 9.5v-17l-16.4-9.5zm76.2-21.8v17l2.5-1.4v-10l8.8-5.1-6-3.5-5.2 3zm59.2-45.1V269l9.1-5.3-9.1-5.3zm85.8-89.7V182l2.8-1.6h6.4l15.4-9v-17L340 168.7zm-97.8 28.9h45.4v17h-45.4zm-106.5 33.8h48.8v17h-48.8zM85 221.5h33.6v17H84.9zm-36-6.3h25v17H49z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M394 197.9a.7.7 0 01.7 0l.7.3-1.4 2.3-.7-.3a.7.7 0 01-.2-.7 2.1 2.1 0 01.9-1.6z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M394.7 198.3a2.1 2.1 0 00-1 1.6c0 .6.4.9 1 .6a2.1 2.1 0 001-1.7c0-.6-.5-.8-1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M391.8 199.1a.7.7 0 01.7 0l.7.3-1.4 2.4-.6-.4a.7.7 0 01-.3-.6 2.1 2.1 0 011-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M392.5 199.5a2.1 2.1 0 00-1 1.7c0 .6.4.8 1 .5a2.1 2.1 0 001-1.6c0-.7-.5-.9-1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M383.4 203.3a.7.7 0 01.7 0l.6.3-1.3 2.4-.7-.4a.7.7 0 01-.3-.6 2.1 2.1 0 011-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M384 203.7a2.1 2.1 0 00-1 1.7c0 .6.4.8 1 .5a2.1 2.1 0 001-1.7c0-.6-.4-.8-1-.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M386.6 196.4l12-6.9v7.3l-12 6.9v-7.3z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M380 192.7l6.6 3.7v7.3l-6.6-3.8v-7.3z"
-            fill="url(#prefix__New_Gradient_Swatch)"
-          />
-          <path
-            d="M392 185.8l6.6 3.7-12 6.9-6.6-3.8 12-6.8z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M381.4 204.5l1.1-1.6.6-4.3 3-1.6v6.4l-4.7 2.6v-1.5z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M381.4 204.5l-5.5-3.2v1.5l5.5 3.2v-1.5z"
-            fill="url(#prefix__New_Gradient_Swatch-2)"
-          />
-          <path
-            d="M382.5 203l-5.5-3.3-1 1.6 5.4 3.2 1.1-1.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M383.1 198.6l-5.5-3.2-.6 4.3 5.5 3.2.6-4.3z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M386 197l-5.4-3.2-3 1.6 5.5 3.2 3-1.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M383.1 198.6l1.1-.6v4l-1.7 1 .6-4.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M381 204.5a.6.6 0 01.3.5c0 .2-.1.3-.3.2a.7.7 0 01-.3-.5c0-.2.1-.3.3-.2zm-4.6-2.7a.7.7 0 01.3.6c0 .2-.1.2-.3.1a.7.7 0 01-.3-.5c0-.2.1-.3.3-.2z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M494.9 106.3a.7.7 0 01.6 0l.7.4-1.4 2.3-.6-.4a.7.7 0 01-.3-.6 2 2 0 011-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M495.5 106.7a2.1 2.1 0 00-1 1.7c0 .6.4.8 1 .5a2 2 0 001-1.6c0-.6-.4-.9-1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M492.7 107.6a.7.7 0 01.7 0l.6.3-1.3 2.4-.7-.4a.7.7 0 01-.3-.6 2.1 2.1 0 011-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M493.3 108a2.1 2.1 0 00-1 1.7c0 .6.5.8 1 .5a2.1 2.1 0 001-1.7c0-.6-.4-.8-1-.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M507.5 99a.7.7 0 01.7 0l.7.3-1.4 2.4-.6-.4a.7.7 0 01-.3-.6 2.1 2.1 0 011-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M508.2 99.4a2.1 2.1 0 00-1 1.6c0 .6.4.9 1 .6a2.1 2.1 0 001-1.7c0-.6-.5-.9-1-.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M505.3 100.2a.7.7 0 01.7 0l.7.3-1.4 2.4-.6-.4a.7.7 0 01-.3-.6 2.1 2.1 0 011-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M506 100.6a2.1 2.1 0 00-1 1.7c0 .6.4.8 1 .5a2.1 2.1 0 001-1.6c0-.7-.5-.9-1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M486.7 110.5a.7.7 0 01.7-.1l.6.4-1.3 2.3-.7-.4a.7.7 0 01-.3-.6 2.1 2.1 0 011-1.6z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M487.3 110.8a2.1 2.1 0 00-1 1.7c0 .6.5.8 1 .5a2.1 2.1 0 001-1.6c0-.6-.4-.9-1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M489.9 103.5l21-11.9V99l-21 12v-7.4z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M483.3 99.8l6.6 3.7v7.3l-6.6-3.7v-7.3z"
-            fill="url(#prefix__New_Gradient_Swatch-3)"
-          />
-          <path
-            d="M504.2 87.9l6.6 3.7-21 12-6.5-3.8 21-12z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M484.7 111.7l1.1-1.6.6-4.3 3-1.7v6.4l-4.7 2.6v-1.4z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M484.7 111.7l-5.5-3.2v1.4l5.5 3.2v-1.4z"
-            fill="url(#prefix__New_Gradient_Swatch-4)"
-          />
-          <path
-            d="M485.8 110l-5.5-3.1-1 1.6 5.4 3.2 1.1-1.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M486.4 105.8l-5.5-3.2-.6 4.3 5.5 3.2.6-4.3z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M489.3 104.1l-5.5-3.2-2.9 1.7 5.5 3.2 3-1.7z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M486.4 105.8l1.1-.7v4l-1.7 1 .6-4.3z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M484.3 111.6a.7.7 0 01.3.6c0 .1-.2.2-.3.1a.6.6 0 01-.3-.5c0-.2 0-.3.3-.2zm-4.6-2.6a.7.7 0 01.3.5c0 .2-.1.3-.3.2a.7.7 0 01-.3-.5c0-.2.1-.3.3-.2z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M407.3 232.4l11.4 6.6v-59.4l-11.4-6.5v59.3z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M430 232.4l-11.3 6.6v-59.4l11.4-6.5v59.3z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M430 173l-11.3 6.6-11.4-6.5 11.4-6.6 11.4 6.6z"
-            className="prefix__cls-7"
-          />
-          <path d="M411.8 173.3l6.9 4v-8.8l-7-4v8.8z" className="prefix__cls-4" />
-          <path d="M425.6 173.3l-7 4v-8.8l7-4v8.8z" className="prefix__cls-11" />
-          <path d="M425.6 164.5l-7 4-6.9-4 7-4 7 4z" className="prefix__cls-7" />
-          <path
-            d="M403.4 250l13.6 7.7v-42.1l-13.6-7.7v42z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M426 252.5l-9 5.2v-42.1l9-5.2v42z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M426 210.4l-9 5.2-13.6-7.7 9-5.2 13.6 7.7z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M389.2 252.2l9 5.2V168l-9-5.2v89.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M407.3 252.2l-9 5.2V168l9-5.2v89.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M407.3 162.8l-9 5.2-9-5.1 9-5.3 9 5.2z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M462.5 100.7l11.4 6.5V66.5L462.5 60v40.8z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M485.3 100.7l-11.4 6.5V66.5l11.4-6.6v40.8z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M485.3 60l-11.4 6.5-11.4-6.5 11.4-6.6 11.4 6.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M458.6 118.2l13.5 7.7V84l-13.5-8v42.1z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M481.1 120.7l-9 5.2V84l9-5.3v42.1z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M481.1 78.6l-9 5.3-13.5-7.7 9-5.3 13.5 7.7z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M433.8 126.4l9 5.2V67l-9-5.2v64.6z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M462.5 120.4l-19.7 11.2V67l19.7-11.2v64.6z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M462.5 55.8L442.8 67l-9-5.2 19.6-11.2 9 5.2z"
-            className="prefix__cls-7"
-          />
-          <path d="M447.3 129l8 4.5V80l-8 .1v49z" className="prefix__cls-4" />
-          <path
-            d="M464.3 128.3l-9 5.2V80l9-5.2v53.6z"
-            className="prefix__cls-11"
-          />
-          <path d="M464.3 74.7l-9 5.2-8 .2 9-5.3h8z" className="prefix__cls-7" />
-          <path
-            d="M435.4 214.6c-1 0-2.4 18.3-2.4 21.4s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.4-2.3-21.4zm60.1-100.4c-.9 0-2.3 18.4-2.3 21.5s2.3 3.6 2.3 3.6 2.4-.5 2.4-3.6-1.5-21.5-2.4-21.5zm-8.6 8.9c-1 0-2.4 18.4-2.4 21.5s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.5-2.3-21.5z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M431.3 220.5c-1 0-2.4 18.4-2.4 21.5s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.5-2.4-21.5zm-65-8.2c-1 0-2.4 18.4-2.4 21.5s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.5-2.3-21.5zm6.5 15.2c-1 0-2.4 18.4-2.4 21.5s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.5-2.3-21.5zm-141.3-86.9c-1 0-2.4 18.4-2.4 21.5s2.4 3.5 2.4 3.5 2.3-.4 2.3-3.5-1.4-21.5-2.3-21.5zM386 212.3c-1 0-2.4 18.4-2.4 21.5s2.4 3.6 2.4 3.6 2.4-.5 2.4-3.6-1.5-21.5-2.4-21.5zm54 49.7c-.8 0-2.3 18.4-2.3 21.5s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.4-2.3-21.4zm-46.2 89.8c-1 0-2.4 18.3-2.4 21.4s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.4-2.3-21.4zM274.4 245.9c-1 0-2.4 18.3-2.4 21.4s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.4-2.3-21.4zm-9.5-10.7c-1 0-2.4 18.3-2.4 21.4s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.5-2.3-21.5zm19 4.1c-1 0-2.4 18.4-2.4 21.4s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.4-2.3-21.4zM211 311c-1 0-2.5 18.4-2.5 21.5s2.4 3.5 2.4 3.5 2.4-.4 2.4-3.5-1.5-21.5-2.4-21.5zm-5.8 17.7c-.9 0-2.3 18.4-2.3 21.5s2.3 3.6 2.3 3.6 2.4-.5 2.4-3.6-1.4-21.5-2.4-21.5zm-58.8-12.8c-.9 0-2.3 18.4-2.3 21.5s2.3 3.5 2.3 3.5 2.4-.5 2.4-3.6-1.4-21.4-2.4-21.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M228.1 123.9c-.9 0-2.3 18.4-2.3 21.5s2.3 3.5 2.3 3.5 2.4-.4 2.4-3.5-1.5-21.5-2.4-21.5zm-73 179.1c-.9 0-2.3 18.4-2.3 21.5s2.3 3.5 2.3 3.5 2.4-.4 2.4-3.5-1.4-21.5-2.4-21.5zm-25.8-6.4c-.9 0-2.3 18.3-2.3 21.4s2.3 3.6 2.3 3.6 2.4-.5 2.4-3.6-1.4-21.4-2.4-21.4zm109.4-160.9c-.9 0-2.3 18.3-2.3 21.4s2.3 3.6 2.3 3.6 2.4-.5 2.4-3.6-1.4-21.4-2.4-21.4zm67 .7c-.9 0-2.3 18.4-2.3 21.5s2.3 3.5 2.3 3.5 2.4-.4 2.4-3.5-1.5-21.5-2.4-21.5zM87.3 293.6c-1 0-2.4 18.4-2.4 21.5s2.4 3.5 2.4 3.5 2.3-.5 2.3-3.5-1.4-21.5-2.3-21.5zm7.5 4.4c-1 0-2.4 18.4-2.4 21.5s2.4 3.5 2.4 3.5 2.3-.5 2.3-3.6-1.4-21.4-2.3-21.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M292.3 345.5v-4.3l2.3-8.2 136.2-78.7v11.4l-138.5 79.8z"
-            fill="url(#prefix__New_Gradient_Swatch-5)"
-          />
-          <path
-            d="M294.6 333l-10 3.8 2.3-8.2L423 250l7.7 4.4L294.6 333z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M294.6 333l-7.7-4.4-2.4 8.2v4.3l7.8 4.4v-4.3l2.3-8.2z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M292.3 342.1v3.4l138.5-79.8v-3.4l-138.5 79.8z"
-            className="prefix__cls-16"
-          />
-          <path
-            d="M292.3 341.2l-7.8-4.4 2.2-7.3 7.7 4.4-2.1 7.3z"
-            className="prefix__cls-11"
-          />
-          <path d="M296.4 343.1v-10l5.2-3v10l-5.2 3z" className="prefix__cls-2" />
-          <path
-            d="M297 339.4l4.1-2.4v-5.8l-4.2 2.4v5.8zm6.2-4.9l12-6.8v-4.5l-12 6.8v4.5zm13.6-7.7l11.9-6.8v-4.5l-12 6.8v4.5z"
-            className="prefix__cls-11"
-          />
-          <path d="M330 323.8v-10l5.3-3v10l-5.2 3z" className="prefix__cls-2" />
-          <path
-            d="M330.6 320l4.1-2.4v-5.7l-4.1 2.4v5.7zm6.2-4.8l12-6.8v-4.5l-12 6.8v4.5zm13.6-7.8l12-6.8v-4.5l-12 6.8v4.5z"
-            className="prefix__cls-11"
-          />
-          <path d="M363.7 304.4v-10l5.2-3v10l-5.2 3z" className="prefix__cls-2" />
-          <path
-            d="M364.2 300.6l4.2-2.4v-5.7l-4.2 2.4v5.8zm6.2-4.8l12-6.8v-4.5l-12 6.8v4.5zM384 288l12-6.7v-4.5l-12 6.8v4.4z"
-            className="prefix__cls-11"
-          />
-          <path d="M397.5 285v-10l5.2-3v10l-5.2 3z" className="prefix__cls-2" />
-          <path
-            d="M398 281.1l4.2-2.4V273l-4.2 2.4v5.7zm6.3-4.8l11.9-6.8V265l-12 6.8v4.5zm13.6-7.8l11.9-6.8v-4.5l-12 6.8v4.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M175.5 321.7a.7.7 0 00-.7 0l-.6.3 1.4 2.4.6-.4a.7.7 0 00.3-.6 2.1 2.1 0 00-1-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M174.9 322a2.1 2.1 0 011 1.7c0 .6-.5.9-1 .6a2.1 2.1 0 01-1-1.7c0-.6.4-.8 1-.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M177.7 323a.7.7 0 00-.7 0l-.6.3 1.3 2.3.7-.3a.7.7 0 00.3-.6 2.1 2.1 0 00-1-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M177 323.3a2.1 2.1 0 011 1.7c0 .6-.4.8-1 .5a2.1 2.1 0 01-1-1.6c.1-.6.5-.9 1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M186.2 327.1a.7.7 0 00-.7 0l-.7.3 1.4 2.4.7-.4a.7.7 0 00.3-.6 2.1 2.1 0 00-1-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M185.5 327.5a2 2 0 011 1.7c0 .6-.4.8-1 .5a2.1 2.1 0 01-1-1.6c0-.6.5-.9 1-.6z"
-            className="prefix__cls-7"
-          />
-          <path d="M183 320.2l-12-6.9v7.3l12 7v-7.4z" className="prefix__cls-2" />
-          <path
-            d="M189.6 316.5l-6.6 3.7v7.3l6.6-3.7v-7.3z"
-            fill="url(#prefix__New_Gradient_Swatch-6)"
-          />
-          <path
-            d="M177.5 309.6l-6.6 3.7 12.1 7 6.6-3.8-12.1-7z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M188.2 328.3l-1.1-1.6-.6-4.3-3-1.6v6.4l4.7 2.6v-1.5z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M188.2 328.3l5.4-3.2v1.5l-5.4 3.2v-1.5z"
-            fill="url(#prefix__New_Gradient_Swatch-7)"
-          />
-          <path
-            d="M187 326.7l5.5-3.1 1.1 1.5-5.4 3.2-1.1-1.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M186.5 322.4l5.4-3.1.6 4.3-5.4 3.1-.6-4.3z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M183.6 320.8l5.4-3.2 3 1.6-5.5 3.3-3-1.7z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M186.5 322.4l-1.2-.6v4l1.8 1-.6-4.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M188.6 328.3a.7.7 0 00-.3.5c0 .2.1.3.3.2a.7.7 0 00.3-.5c0-.2-.1-.3-.3-.2zm4.6-2.6a.7.7 0 00-.3.5c0 .2.1.2.3.2a.7.7 0 00.3-.6c0-.2-.2-.2-.3-.1z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M262.8 184a.7.7 0 00-.7 0l-.7.3 1.4 2.4.6-.4a.7.7 0 00.3-.6 2.1 2.1 0 00-1-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M262.1 184.3a2.1 2.1 0 011 1.7c0 .6-.4.9-1 .6a2.1 2.1 0 01-1-1.7c0-.6.5-.9 1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M265 185.2a.7.7 0 00-.7 0l-.7.3 1.4 2.4.7-.4a.7.7 0 00.3-.6 2.1 2.1 0 00-1-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M264.3 185.6a2 2 0 011 1.7c0 .6-.4.8-1 .5a2.1 2.1 0 01-1-1.7c0-.6.5-.8 1-.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M273.4 189.4a.7.7 0 00-.7 0l-.6.3 1.3 2.4.7-.4a.7.7 0 00.3-.6 2 2 0 00-1-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M272.8 189.8a2.1 2.1 0 011 1.7c0 .6-.5.8-1 .5a2 2 0 01-1-1.6c0-.7.4-1 1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M270.2 182.5l-12-6.9v7.3l12 6.9v-7.3z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M276.8 178.7l-6.6 3.8v7.3l6.6-3.8v-7.3z"
-            fill="url(#prefix__New_Gradient_Swatch-8)"
-          />
-          <path
-            d="M264.7 171.8l-6.6 3.8 12.1 6.9 6.6-3.8-12-6.8z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M275.4 190.6l-1.1-1.6-.6-4.3-3-1.6v6.4l4.7 2.6v-1.5z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M275.4 190.6l5.5-3.2v1.5l-5.5 3.2v-1.5z"
-            fill="url(#prefix__New_Gradient_Swatch-9)"
-          />
-          <path
-            d="M274.3 189l5.5-3.2 1 1.6-5.4 3.2-1.1-1.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M273.7 184.7l5.5-3.2.6 4.3-5.5 3.2-.6-4.3z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M270.8 183l5.4-3.1 3 1.6-5.5 3.2-3-1.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M273.7 184.7l-1.1-.6v4l1.7 1-.6-4.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M275.8 190.6a.7.7 0 00-.3.5c0 .2.2.3.3.2a.7.7 0 00.3-.5c0-.2-.1-.3-.3-.2zm4.6-2.6a.7.7 0 00-.3.5c0 .2.1.2.3.1a.6.6 0 00.3-.5c0-.2-.1-.3-.3-.2z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M294.3 281.8a.7.7 0 01.7 0l.7.3-1.4 2.3-.7-.3a.7.7 0 01-.2-.7 2.1 2.1 0 011-1.6z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M295 282.1a2.1 2.1 0 00-1 1.7c0 .6.4.9 1 .6a2.1 2.1 0 001-1.7c0-.6-.5-.8-1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M292.1 283a.7.7 0 01.7 0l.7.3-1.4 2.4-.6-.4a.7.7 0 01-.3-.6 2.1 2.1 0 011-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M292.8 283.4a2.1 2.1 0 00-1 1.7c0 .6.4.8 1 .5a2.1 2.1 0 001-1.6c0-.6-.5-.9-1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M308.9 273.3a.7.7 0 01.7 0l.6.3-1.3 2.4-.7-.4a.7.7 0 01-.3-.6 2.1 2.1 0 011-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M309.5 273.7a2.1 2.1 0 00-1 1.6c0 .7.5.9 1 .6a2.1 2.1 0 001-1.7c0-.6-.4-.8-1-.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M306.7 274.6a.7.7 0 01.7-.1l.6.4-1.3 2.3-.7-.4a.7.7 0 01-.3-.6 2.1 2.1 0 011-1.6z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M307.4 275a2.1 2.1 0 00-1 1.6c0 .6.4.9 1 .6a2.1 2.1 0 001-1.7c0-.6-.5-.9-1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M283.7 287.2a.7.7 0 01.7 0l.6.3-1.3 2.4-.7-.4a.7.7 0 01-.3-.6 2.1 2.1 0 011-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M284.3 287.6a2.1 2.1 0 00-1 1.7c0 .6.5.8 1 .5a2.1 2.1 0 001-1.6c0-.7-.4-.9-1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M286.9 280.3l26.1-14.9v7.3l-26 14.9v-7.3z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M280.3 276.6l6.6 3.7v7.3l-6.6-3.8v-7.3z"
-            fill="url(#prefix__New_Gradient_Swatch-10)"
-          />
-          <path
-            d="M306.4 261.6l6.6 3.8-26.1 14.9-6.6-3.8 26.1-14.9z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M281.7 288.4l1.1-1.6.6-4.3 3-1.6v6.4l-4.7 2.6v-1.5z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M281.7 288.4l-5.5-3.2v1.5l5.5 3.2v-1.5z"
-            fill="url(#prefix__New_Gradient_Swatch-11)"
-          />
-          <path
-            d="M282.8 286.8l-5.5-3.2-1 1.6 5.4 3.2 1.1-1.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M283.4 282.5l-5.5-3.2-.6 4.3 5.5 3.2.6-4.3z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M286.3 280.9l-5.4-3.2-3 1.6 5.5 3.2 3-1.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M283.4 282.5l1.1-.6v4l-1.7 1 .6-4.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M281.3 288.4a.7.7 0 01.3.5c0 .2-.2.3-.3.2a.7.7 0 01-.3-.5c0-.2.1-.3.3-.2zm-4.6-2.7a.7.7 0 01.3.6c0 .1-.1.2-.3.1a.7.7 0 01-.3-.5c0-.2.1-.3.3-.2z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M412 148a.7.7 0 00-.7 0l-.7.4 1.4 2.3.7-.3a.7.7 0 00.3-.7 2.1 2.1 0 00-1-1.6z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M411.3 148.4a2.1 2.1 0 011 1.7c0 .6-.4.9-1 .6a2.1 2.1 0 01-1-1.7c0-.6.5-.9 1-.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M414.1 149.3a.7.7 0 00-.6 0l-.7.3 1.4 2.4.6-.4a.7.7 0 00.3-.6 2.1 2.1 0 00-1-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M413.5 149.7a2.1 2.1 0 011 1.7c0 .6-.4.8-1 .5a2.1 2.1 0 01-1-1.7c0-.6.5-.8 1-.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M422.6 153.5a.7.7 0 00-.7 0l-.6.3 1.3 2.4.7-.4a.7.7 0 00.3-.6 2.1 2.1 0 00-1-1.7z"
-            className="prefix__cls-6"
-          />
-          <path
-            d="M422 153.9a2 2 0 011 1.7c0 .6-.5.8-1 .5a2.1 2.1 0 01-1-1.7c0-.6.4-.8 1-.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M419.4 146.6l-12-6.9v7.3l12 6.9v-7.3z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M426 142.8l-6.6 3.8v7.3l6.6-3.8v-7.3z"
-            fill="url(#prefix__New_Gradient_Swatch-12)"
-          />
-          <path
-            d="M414 136l-6.7 3.7 12.1 6.9 6.6-3.8-12-6.9z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M424.6 154.7l-1.1-1.6-.6-4.3-3-1.6v6.4l4.7 2.6v-1.5z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M424.6 154.7l5.4-3.2v1.5l-5.4 3.2v-1.5z"
-            fill="url(#prefix__New_Gradient_Swatch-13)"
-          />
-          <path
-            d="M423.5 153.1l5.5-3.2 1 1.6-5.4 3.2-1.1-1.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M422.9 148.8l5.5-3.2.6 4.3-5.5 3.2-.6-4.3z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M420 147.2l5.4-3.2 3 1.6-5.5 3.2-3-1.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M422.9 148.8l-1.1-.6v4l1.7 1-.6-4.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M425 154.7a.7.7 0 00-.3.5c0 .2.1.3.3.2a.7.7 0 00.3-.5c0-.2-.1-.3-.3-.2zm4.6-2.7a.7.7 0 00-.3.5c0 .2.1.3.3.2a.7.7 0 00.3-.5c0-.2-.1-.3-.3-.2z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M511.4 147.6l10.4 6v-42l-10.4-6v42z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M530.8 148.4l-9 5.2v-42l9-5.3v42z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M530.8 106.3l-9 5.2-10.4-6 9-5.2 10.4 6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M495.4 153.4l12.4 7.2v-56.8l-12.4-7.1v56.7z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M518.5 154.4l-10.7 6.2v-56.8l10.7-6.2v56.8z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M518.5 97.6l-10.7 6.2-12.4-7 10.8-6.3 12.3 7.1z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M499.8 162l8.5 4.9V122l-8.5-4.9V162z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M518.2 161.3l-9.9 5.6V122l9.9-5.6v44.9z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M518.2 116.4l-9.9 5.6-8.5-4.9 9.9-5.6 8.5 5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M502.6 117.2l6 3.5v-5.3l-6-3.5v5.3z"
-            className="prefix__cls-4"
-          />
-          <path d="M515.6 116.7l-7 4v-5.3l7-4v5.3z" className="prefix__cls-11" />
-          <path
-            d="M515.6 111.4l-7 4-6-3.5 7-4 6 3.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M504.6 111.8l4.1 2.4v-3.6l-4-2.3v3.5z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M513.5 111.5l-4.8 2.7v-3.6l4.8-2.7v3.6z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M513.5 108l-4.8 2.6-4-2.3 4.7-2.8 4.1 2.4z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M272.4 154.4l8.4 4.9v-44.9l-8.4-4.9v44.9z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M290.7 153.7l-9.9 5.6v-44.9l9.9-5.6v44.9z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M290.7 108.8l-9.9 5.6-8.4-4.9 9.8-5.6 8.5 5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M275 109.6l6.1 3.5v-5.3l-6-3.5v5.3z"
-            className="prefix__cls-4"
-          />
-          <path d="M288.1 109.1l-7 4v-5.3l7-4v5.3z" className="prefix__cls-11" />
-          <path
-            d="M288.1 103.8l-7 4-6-3.5 7-4 6 3.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M277.1 104.3l4.2 2.4V103l-4.2-2.3v3.6z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M286 104l-4.7 2.7V103l4.7-2.7v3.6z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M286 100.3l-4.7 2.8-4.2-2.4L282 98l4.1 2.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M495.4 131.6c-.9 0-2.3 18.4-2.3 21.4s2.3 3.6 2.3 3.6 2.4-.5 2.4-3.6-1.5-21.4-2.4-21.4zm47.1-3c-.9 0-2.3 18.4-2.3 21.5s2.3 3.6 2.3 3.6 2.4-.5 2.4-3.6-1.4-21.5-2.4-21.5zm7 7.8c-1 0-2.4 18.4-2.4 21.5s2.4 3.5 2.4 3.5 2.4-.4 2.4-3.5-1.5-21.5-2.4-21.5zM462.2 117c-1 0-2.4 18.4-2.4 21.5s2.4 3.5 2.4 3.5 2.3-.4 2.3-3.5-1.4-21.5-2.3-21.5zm-65.7-.9c-.9 0-2.3 18.4-2.3 21.5s2.3 3.5 2.3 3.5 2.4-.4 2.4-3.5-1.4-21.5-2.4-21.5z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M495.7 171.1v-4.3l-2.3-8.2-76.9-44.5v11.4l79.2 45.6z"
-            fill="url(#prefix__New_Gradient_Swatch-14)"
-          />
-          <path
-            d="M493.4 158.6l10 3.8-2.3-8.2-76.9-44.5-7.7 4.4 76.9 44.5z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M493.4 158.6l7.7-4.4 2.4 8.2v4.3l-7.8 4.4v-4.3l-2.3-8.2z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M495.7 167.7v3.4l-79.2-45.6V122l79.2 45.6z"
-            className="prefix__cls-16"
-          />
-          <path
-            d="M495.7 166.8l7.8-4.4-2.2-7.4-7.7 4.4 2.1 7.4z"
-            className="prefix__cls-11"
-          />
-          <path d="M491.6 168.7v-10l-5.2-3v10l5.2 3z" className="prefix__cls-2" />
-          <path
-            d="M491 165l-4.1-2.5v-5.7l4.2 2.4v5.7zm-6.2-4.9l-12-6.8v-4.5l12 6.8v4.5zm-13.6-7.8l-11.9-6.8V141l12 6.8v4.5z"
-            className="prefix__cls-11"
-          />
-          <path d="M458 149.3v-10l-5.3-3v10l5.2 3z" className="prefix__cls-2" />
-          <path
-            d="M457.4 145.6l-4.1-2.4v-5.8l4.1 2.5v5.7zm-6.2-4.8l-12-6.9v-4.5l12 6.8v4.6zm-13.6-7.8l-12-6.8v-4.5l12 6.8v4.5z"
-            className="prefix__cls-11"
-          />
-          <path d="M424.3 130v-10l-5.2-3v10l5.2 3z" className="prefix__cls-2" />
-          <path
-            d="M423.8 126.2l-4.2-2.4v-5.7l4.2 2.4v5.7zm-72.2 135.1l-9 5.3v-78.2l9-5.3v78.2z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M351.6 183.1l-9 5.3-9-5.2 9-5.2 9 5.1z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M342.6 195.8v-7.4l-9-5.3v78.2l18 10.6v-70.8l-9-5.3z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M360.6 266.7l-9 5.2v-70.8l9-5.3v71z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M360.6 195.8l-9 5.3-9-5.2 9-5.2 9 5.1z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M311.1 275l8.5 4.9v-53.1l-8.5-5V275z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M334.3 271.4l-14.7 8.5v-53.1l14.7-8.5v53.1z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M334.3 218.3l-14.7 8.5-8.5-5 14.7-8.4 8.5 5z"
-            className="prefix__cls-7"
-          />
-          <path d="M313.8 222l6 3.4v-5.3l-6-3.4v5.2z" className="prefix__cls-4" />
-          <path
-            d="M331.7 218.6l-11.9 6.8v-5.3l12-6.8v5.3z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M331.7 213.3l-11.9 6.8-6-3.4 11.9-6.8 6 3.4z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M328.3 277l10.3 6v-31.2l-10.4-6v31.1z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M360.6 270.4l-22 12.6v-31.2l22-12.6v31.2z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M360.6 239.2l-22 12.6-10.4-6 22-12.6 10.4 6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M321 289.2l9.3 5.3v-55l-9.3-5.3v55z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M340 289l-9.8 5.5v-55l9.8-5.6v55z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M340 233.9l-9.8 5.6-9.2-5.3 9.8-5.6 9.2 5.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M447.3 139.3c-1 0-2.4 18.3-2.4 21.4s2.4 3.6 2.4 3.6 2.4-.5 2.4-3.6-1.5-21.4-2.4-21.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M450.3 151.4c-.9 0-2.3 18.4-2.3 21.5s2.3 3.6 2.3 3.6 2.4-.5 2.4-3.6-1.4-21.5-2.4-21.5zM386 122.6c-1 0-2.4 18.4-2.4 21.4s2.4 3.6 2.4 3.6 2.4-.5 2.4-3.6-1.5-21.4-2.4-21.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M371.8 349l11.4 6.5v-59.3l-11.4-6.6V349z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M398 347l-14.8 8.5v-59.3l14.9-8.6V347z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M398 287.6l-14.8 8.6-11.4-6.6 14.8-8.5 11.4 6.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M367.9 366.5l13.6 7.7v-42l-13.6-7.8v42.1z"
-            className="prefix__cls-4"
-          />
-          <path d="M390.5 369l-9 5.2v-42l9-5.3V369z" className="prefix__cls-11" />
-          <path
-            d="M390.5 327l-9 5.1-13.6-7.7 9-5.2 13.6 7.7z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M353.7 368.7l9 5.2v-89.3l-9-5.2v89.3z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M371.8 368.7l-9 5.2v-89.3l9-5.2v89.3z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M371.8 279.4l-9 5.2-9-5.2 9-5.2 9 5.2z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M353.5 377.8l8.6 5v-35.9l-8.6-4.9v35.8z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M379 372.9l-17 9.9v-35.9l17-9.8v35.8z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M379 337l-17 10-8.5-5 17-9.9 8.5 5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M395.5 359.9l8.6 5v-70.6l-8.6-11V360z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M414.3 358.8l-10.2 6v-70.5l10.2-6v70.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M414.3 288.3l-10.2 6-8.6-10.9 10.2-6 8.6 10.9z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M407.3 355.5c-1 0-2.4 18.4-2.4 21.5s2.4 3.5 2.4 3.5 2.4-.4 2.4-3.5-1.5-21.5-2.4-21.5zm15.6-26.8c-1 0-2.4 18.4-2.4 21.5s2.4 3.6 2.4 3.6 2.3-.5 2.3-3.6-1.4-21.5-2.3-21.5z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M249.2 343l11 6.4V285l-11-6.3V343z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M249.2 278.8l11 6.3 9.4-5.5-10.9-6.3-9.5 5.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M259.1 294.7v-9.6l9.5-5.5V344l-19 11v-54.7l9.5-5.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M238.7 348.5l11 6.3v-54.6l-11-6.3v54.6z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M238.7 293.9l11 6.3 9.4-5.4-10.9-6.4-9.5 5.5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M218.7 355.2l8.6 5v-70.6l-8.6-10.9v76.5z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M244.2 350.3l-17 9.9v-70.6l17-9.9v70.6z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M244.2 279.7l-17 10-8.5-11 17-9.8 8.5 10.8z"
-            className="prefix__cls-7"
-          />
-          <path d="M235.8 359l8.5 4.9V311l-8.6-5v53z" className="prefix__cls-4" />
-          <path
-            d="M254.2 358.1l-9.9 5.8V311l9.9-5.8V358z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M254.2 305.4l-9.9 5.7-8.6-5 9.9-5.7 8.6 5z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M252 450.4l55.5 32.4c13.7 8.1 32.3 1.5 32.3 1.5l-87.7-41z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M252 443.3l61.9 36.1c10.9 6.5 26 5 26 5s1.2-6.7-14-15.8-58.7-34.4-58.7-34.4zm74 25.3c-15.1-9-58.8-34.4-58.8-34.4"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M335.7 483.7c-4.9 0-14.1-.6-21.4-5l-60.7-35.5 13.6-8.1c4.5 2.6 44.2 25.7 58.4 34.2 11.7 7 13.3 12.5 13.4 14.3h-3.3z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M325.6 470.9c-14.2-8.5-54-31.6-58.4-34.2L255 444l59.3 34.7a44 44 0 0021.4 5h3c-1-2.6-3.8-7.2-13.1-12.8z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M281.2 448.4l7.5 4.3v-2.4l-7.5-4.3v2.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M291.3 448.8l-2.6 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M283.8 444.5l-2.6 1.5 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M278 450.6l7.5 4.3v-2.4l-7.4-4.4v2.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M288.1 451l-2.6 1.5v2.4l2.6-1.5V451z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M280.6 446.6l-2.6 1.5 7.5 4.4 2.6-1.5-7.5-4.4z"
-            className="prefix__cls-8"
-          />
-          <path
-            d="M274.9 452.7l7.5 4.4v-2.5l-7.5-4.3v2.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M285 453.1l-2.6 1.5v2.4l2.6-1.4V453z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M277.5 448.8l-2.6 1.5 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M271.8 454.9l7.4 4.3v-2.4l-7.4-4.3v2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M281.8 455.3l-2.6 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M274.4 451l-2.6 1.5 7.4 4.3 2.6-1.5-7.4-4.3z"
-            className="prefix__cls-8"
-          />
-          <path
-            d="M290.6 453.8l7.5 4.3v-2.4l-7.5-4.3v2.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M300.7 454.2l-2.6 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M293.2 449.9l-2.6 1.5 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M287.5 456l7.5 4.3v-2.4l-7.5-4.4v2.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M297.6 456.4l-2.6 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M290.1 452l-2.6 1.5 7.5 4.4 2.6-1.5-7.5-4.4z"
-            className="prefix__cls-8"
-          />
-          <path
-            d="M284.4 458.1l7.4 4.3V460l-7.4-4.3v2.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M294.4 458.5l-2.6 1.5v2.4l2.6-1.4v-2.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M287 454.2l-2.6 1.5 7.4 4.3 2.6-1.5-7.4-4.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M281.2 460.3l7.5 4.3v-2.4l-7.5-4.3v2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M291.3 460.7l-2.6 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M283.8 456.4l-2.6 1.5 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-8"
-          />
-          <path
-            d="M300 459.2l7.6 4.3v-2.4l-7.5-4.3v2.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M310.2 459.6l-2.6 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M302.7 455.3l-2.6 1.5 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M297 461.4l7.4 4.3v-2.4l-7.5-4.4v2.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M307 461.8l-2.6 1.4v2.5l2.6-1.5v-2.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M299.5 457.4L297 459l7.5 4.4 2.6-1.6-7.5-4.3z"
-            className="prefix__cls-8"
-          />
-          <path
-            d="M293.8 463.5l7.5 4.4v-2.5l-7.5-4.3v2.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M303.9 464l-2.6 1.4v2.5l2.6-1.5v-2.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M296.4 459.6l-2.6 1.5 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M290.6 465.7l7.5 4.3v-2.4l-7.5-4.3v2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M300.7 466l-2.6 1.6v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M293.2 461.8l-2.6 1.4 7.5 4.4 2.6-1.5-7.5-4.4z"
-            className="prefix__cls-8"
-          />
-          <path
-            d="M309.5 464.6l7.5 4.3v-2.4l-7.5-4.3v2.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M319.6 465l-2.6 1.5v2.4l2.6-1.5V465z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M312.1 460.7l-2.6 1.5 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M306.4 466.8l7.5 4.3v-2.5l-7.5-4.3v2.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M316.5 467.1l-2.6 1.5v2.5l2.6-1.5V467z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M309 462.8l-2.6 1.5 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-8"
-          />
-          <path
-            d="M303.2 469l7.5 4.2v-2.4l-7.5-4.3v2.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M313.3 469.3l-2.6 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M305.8 465l-2.6 1.5 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M300 471l7.6 4.4V473l-7.5-4.4v2.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M310.2 471.5l-2.6 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M302.7 467.1l-2.6 1.5 7.5 4.4 2.6-1.5-7.5-4.4z"
-            className="prefix__cls-8"
-          />
-          <path
-            d="M319 470l7.5 4.3V472l-7.5-4.3v2.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M329 470.4l-2.5 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M321.6 466l-2.6 1.6 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M315.8 472.2l7.5 4.3V474l-7.5-4.3v2.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M325.9 472.6l-2.6 1.4v2.5l2.6-1.5v-2.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M318.4 468.2l-2.6 1.5 7.5 4.3 2.6-1.4-7.5-4.4z"
-            className="prefix__cls-8"
-          />
-          <path
-            d="M312.7 474.3l7.5 4.3v-2.4l-7.5-4.3v2.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M322.8 474.7l-2.6 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M315.3 470.4l-2.6 1.5 7.5 4.3 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M309.5 476.5l7.5 4.3v-2.4l-7.5-4.3v2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M319.6 476.9l-2.6 1.5v2.4l2.6-1.5v-2.4z"
-            className="prefix__cls-14"
-          />
-          <path
-            d="M312.1 472.6l-2.6 1.4 7.5 4.4 2.6-1.5-7.5-4.3z"
-            className="prefix__cls-8"
-          />
-          <path
-            d="M267.8 440.9l12.4-7.3 1.7 11.6-12.4 7.3-1.8-11.6z"
-            fill="url(#prefix__New_Gradient_Swatch-15)"
-          />
-          <path
-            d="M267.8 432.7l-12.4 7.3 6.3 3.8 12.4-7.3-6.3-3.8z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M267.2 429.4v10.2l4-2.4V427l-4 2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M265.7 428.5l-3.4 8.2 4.9 3v-10.3l-1.5-.9z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M271.3 427l-4.1 2.4-1.5-.9 4-2.4 1.6.9z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M261.7 432.6V443l4-2.4v-10.3l-4 2.4z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M260.2 431.8l-3.5 8.1 5 3v-10.3l-1.5-.8z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M265.7 430.2l-4 2.4-1.5-.8 4-2.4 1.5.8z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M274 430.1l-12.3 7.3 6 3.5 12.5-7.3-6.1-3.5z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M269.5 452.5l-1.8-11.6-6-3.5v6.4l-6.3-3.9v4.5l14.1 8.1z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M330.5 471.6l-14 9.2c10.5 4.9 23.3 3.5 23.3 3.5s1-5.2-9.3-12.7z"
-            className="prefix__cls-27"
-          />
-          <g id="boat-1">
-            <path
-              d="M280.4 435.2l-12.4 7.3.2 1.5 12.5-7.2-.3-1.6zm.4 2.6l-12.4 7.3.2 1.5 12.4-7.3-.2-1.5zm-152.1-36.9l-55.4 32.4c-13.7 8-32.3 1.5-32.3 1.5l87.8-41z"
-              className="prefix__cls-11"
-            />
-            <path
-              d="M128.7 393.8L67 429.9c-11 6.5-25.9 5-25.9 5s-1.3-6.7 13.8-15.8 58.8-34.4 58.8-34.4zm-73.9 25.3c15.1-9 58.8-34.4 58.8-34.4"
-              className="prefix__cls-7"
-            />
-            <path
-              d="M45.1 434.2c4.9 0 14.1-.6 21.4-5l60.7-35.5-13.6-8.1c-4.5 2.6-44.2 25.7-58.4 34.2-11.7 7-13.3 12.5-13.4 14.3H45z"
-              className="prefix__cls-4"
-            />
-            <path
-              d="M55.2 421.4c14.2-8.5 54-31.6 58.4-34.2l12.2 7.3-59.3 34.7a44 44 0 01-21.4 5h-3c.9-2.6 3.8-7.2 13.1-12.8z"
-              className="prefix__cls-7"
-            />
-            <path
-              d="M101 397.8l-6.2 3.6v-.9l6.2-3.5v.8z"
-              fill="url(#prefix__New_Gradient_Swatch-16)"
-            />
-            <path
-              d="M92.7 399.3l2.1 1.2v.9l-2.1-1.3v-.8z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M98.8 395.7l2.2 1.3-6.2 3.5-2.1-1.2 6.1-3.6z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M105.8 400.6l-6.2 3.6v-.9l6.2-3.5v.8z"
-              fill="url(#prefix__New_Gradient_Swatch-17)"
-            />
-            <path
-              d="M97.5 402.1l2.1 1.2v.9l-2.1-1.3v-.8z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M103.6 398.5l2.2 1.3-6.2 3.5-2.1-1.2 6.1-3.6z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M110.6 403.4l-6.2 3.6v-.9l6.2-3.5v.8z"
-              fill="url(#prefix__New_Gradient_Swatch-18)"
-            />
-            <path
-              d="M102.3 405l2.1 1.1v.9l-2.1-1.2v-.9z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M108.5 401.4l2.1 1.2-6.2 3.5-2.1-1.2 6.2-3.5z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M90.5 404l-6.2 3.5v-.8l6.2-3.6v.9z"
-              fill="url(#prefix__New_Gradient_Swatch-19)"
-            />
-            <path
-              d="M82.2 405.4l2.1 1.3v.8l-2.1-1.2v-.9z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M88.4 401.9l2.1 1.2-6.2 3.6-2.1-1.3 6.2-3.5z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M95.3 406.8l-6.1 3.6v-.9l6.1-3.6v.9z"
-              fill="url(#prefix__New_Gradient_Swatch-20)"
-            />
-            <path d="M87 408.3l2.2 1.2v.9L87 409v-.8z" className="prefix__cls-2" />
-            <path
-              d="M93.2 404.7l2.1 1.2-6.1 3.6-2.2-1.2 6.2-3.6z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M100.1 409.6l-6.1 3.6v-.9l6.1-3.5v.8z"
-              fill="url(#prefix__New_Gradient_Swatch-21)"
-            />
-            <path
-              d="M91.8 411l2.2 1.3v.9l-2.2-1.3v-.8z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M98 407.5l2.1 1.3-6.1 3.5-2.2-1.2 6.2-3.6z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M80 410.1l-6.1 3.6v-.8l6.1-3.6v.8z"
-              fill="url(#prefix__New_Gradient_Swatch-22)"
-            />
-            <path
-              d="M71.7 411.6L74 413v.8l-2.2-1.2v-.9z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M77.9 408l2.1 1.3-6.1 3.6-2.2-1.3 6.2-3.5z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M84.9 413l-6.2 3.5v-.8l6.2-3.6v.9z"
-              fill="url(#prefix__New_Gradient_Swatch-23)"
-            />
-            <path
-              d="M76.6 414.4l2.1 1.3v.8l-2.1-1.2v-.9z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M82.7 410.9L85 412l-6.2 3.6-2.1-1.3 6.1-3.5z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M89.7 415.8l-6.2 3.5v-.8l6.2-3.6v.9z"
-              fill="url(#prefix__New_Gradient_Swatch-24)"
-            />
-            <path
-              d="M81.4 417.3l2.1 1.2v.8l-2.1-1.2v-.8z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M87.5 413.7l2.2 1.2-6.2 3.6-2.1-1.2 6.1-3.6z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M69.6 416.3l-6.2 3.6v-.9l6.2-3.5v.8z"
-              fill="url(#prefix__New_Gradient_Swatch-25)"
-            />
-            <path
-              d="M61.3 417.8l2.1 1.2v.9l-2.1-1.3v-.8z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M67.4 414.2l2.2 1.3-6.2 3.5-2.1-1.2 6.1-3.6z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M74.4 419.1l-6.2 3.6v-.8l6.2-3.6v.8z"
-              fill="url(#prefix__New_Gradient_Swatch-26)"
-            />
-            <path
-              d="M66.1 420.6l2.1 1.3v.8l-2.1-1.3v-.8z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M72.3 417l2 1.3-6 3.6-2.2-1.3 6.2-3.6z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M79.2 422l-6.2 3.5v-.8l6.2-3.6v.8z"
-              fill="url(#prefix__New_Gradient_Swatch-27)"
-            />
-            <path d="M71 423.4l2 1.3v.8l-2-1.2v-.9z" className="prefix__cls-2" />
-            <path
-              d="M77 419.9l2.2 1.2-6.2 3.6-2-1.3 6-3.5z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M59.1 422.5L53 426v-.8l6.1-3.6v.9z"
-              fill="url(#prefix__New_Gradient_Swatch-28)"
-            />
-            <path
-              d="M50.8 424l2.2 1.2v.8l-2.2-1.2v-.8z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M57 420.4l2.1 1.2-6.1 3.6-2.2-1.2 6.2-3.6z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M64 425.3l-6.2 3.6v-.9l6.1-3.5v.8z"
-              fill="url(#prefix__New_Gradient_Swatch-29)"
-            />
-            <path
-              d="M55.6 426.8l2.2 1.2v.9l-2.2-1.3v-.8z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M61.8 423.2l2.1 1.3-6.1 3.5-2.2-1.2 6.2-3.6z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M68.8 428.1l-6.2 3.6v-.9l6.1-3.5v.8z"
-              fill="url(#prefix__New_Gradient_Swatch-30)"
-            />
-            <path d="M60.5 429.6l2 1.2v.9l-2-1.3v-.8z" className="prefix__cls-2" />
-            <path
-              d="M66.6 426l2.2 1.3-6.2 3.5-2.1-1.2 6.1-3.6zm46.4-42.8l12.4 7.2-6.3 3.9-12.4-7.3 6.3-3.8z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M116.5 378.2l-4.5-2.6-4.5 2.6 4.7 2.7 4.3-2.7z"
-              className="prefix__cls-7"
-            />
-            <path
-              d="M108.5 378.2l3.5-2 3.6 2-3.4 2.1-3.8-2.1z"
-              className="prefix__cls-11"
-            />
-            <path
-              d="M112.2 380.9l-4.7-2.7v9.8l4.7 2.8v-10z"
-              className="prefix__cls-4"
-            />
-            <path
-              d="M116.5 378.2v9.9l-4.3 2.6V381l4.3-2.7z"
-              className="prefix__cls-11"
-            />
-            <path
-              d="M112 376.1v4.1l.2.1 3.4-2-3.6-2.2z"
-              className="prefix__cls-4"
-            />
-            <path
-              d="M106.7 380.6l12.4 7.3-4 2.4-12.4-7.3 4-2.4z"
-              className="prefix__cls-1"
-            />
-            <path
-              d="M113.4 401.9l1.8-11.6 4-2.4v6.4l6.2-3.9v4.5l-12 7z"
-              className="prefix__cls-2"
-            />
-            <path
-              d="M115.2 390.3l-12.5-7.3-1.7 11.6 12.4 7.3 1.8-11.6z"
-              fill="url(#prefix__New_Gradient_Swatch-31)"
-            />
-            <path
-              d="M50.3 422.1l14 9.2c-10.5 4.9-23.3 3.5-23.3 3.5s-1-5.2 9.3-12.7z"
-              className="prefix__cls-27"
-            />
-          </g>
-          <path
-            d="M102.6 384.1l12.4 7.3-.2 1.5-12.5-7.2.3-1.6zm-.4 2.6l12.4 7.3-.2 1.5-12.5-7.2.3-1.6zm457.3-170.4L504 248.7c-13.7 8-32.3 1.5-32.3 1.5l87.7-41z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M559.5 209.1l-61.8 36.2c-11 6.5-26 4.9-26 4.9s-1.3-6.6 13.8-15.7 58.9-34.5 58.9-34.5zm-74 25.4c15.2-9.1 58.9-34.5 58.9-34.5"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M475.9 249.6c4.8 0 14-.7 21.3-5L558 209l-13.6-8.1c-4.4 2.6-44.2 25.7-58.3 34.2-11.8 7-13.3 12.5-13.5 14.3h3.4z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M486 236.8c14.2-8.6 53.9-31.7 58.4-34.3l12.2 7.4-59.3 34.7a44 44 0 01-21.4 5h-3c.9-2.7 3.7-7.3 13.1-12.8z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M531.7 213.2l-6.2 3.5v-.8l6.2-3.6v.9z"
-            fill="url(#prefix__New_Gradient_Swatch-32)"
-          />
-          <path
-            d="M523.4 214.7l2.1 1.2v.8l-2-1.2v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M529.6 211l2.1 1.3-6.2 3.6-2-1.3 6-3.5z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M536.5 216l-6.1 3.6v-.9l6.1-3.5v.8z"
-            fill="url(#prefix__New_Gradient_Swatch-33)"
-          />
-          <path
-            d="M528.2 217.5l2.2 1.2v.9l-2.2-1.3v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M534.4 214l2.1 1.1-6.1 3.6-2.2-1.2 6.2-3.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M541.3 218.8l-6.1 3.6v-.9l6.1-3.5v.8z"
-            fill="url(#prefix__New_Gradient_Swatch-34)"
-          />
-          <path
-            d="M533 220.3l2.2 1.2v.9L533 221v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M539.2 216.7l2.1 1.3-6.1 3.5-2.2-1.2 6.2-3.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M521.2 219.3l-6.1 3.6v-.8l6.1-3.6v.8z"
-            fill="url(#prefix__New_Gradient_Swatch-35)"
-          />
-          <path d="M513 220.8l2 1.3v.8l-2-1.2v-.9z" className="prefix__cls-2" />
-          <path
-            d="M519.1 217.3l2.1 1.2-6.1 3.6-2.2-1.3 6.2-3.5z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M526 222.2l-6.1 3.5v-.8l6.2-3.6v.9z"
-            fill="url(#prefix__New_Gradient_Swatch-36)"
-          />
-          <path
-            d="M517.8 223.6l2.1 1.3v.8l-2.1-1.2v-.9z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M524 220l2 1.3-6.1 3.6-2.1-1.3 6.1-3.5z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M530.9 225l-6.2 3.5v-.8l6.2-3.6v.9z"
-            fill="url(#prefix__New_Gradient_Swatch-37)"
-          />
-          <path
-            d="M522.6 226.5l2.1 1.2v.8l-2.1-1.2v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M528.7 222.9l2.2 1.2-6.2 3.6-2.1-1.2 6.1-3.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M510.8 225.5l-6.2 3.6v-.9l6.2-3.5v.8z"
-            fill="url(#prefix__New_Gradient_Swatch-38)"
-          />
-          <path
-            d="M502.5 227l2.1 1.2v.9l-2.1-1.3v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M508.6 223.4l2.2 1.3-6.2 3.5-2.1-1.2 6.1-3.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M515.6 228.3l-6.2 3.6v-.9l6.2-3.5v.8z"
-            fill="url(#prefix__New_Gradient_Swatch-39)"
-          />
-          <path
-            d="M507.3 229.8l2.1 1.2v.9l-2.1-1.3v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M513.5 226.3l2.1 1.2-6.2 3.5-2.1-1.2 6.2-3.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M520.4 231.2l-6.1 3.5v-.8l6.1-3.6v.8z"
-            fill="url(#prefix__New_Gradient_Swatch-40)"
-          />
-          <path
-            d="M512.1 232.6l2.2 1.3v.8l-2.2-1.2v-.9z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M518.3 229l2.1 1.3-6.1 3.6-2.2-1.3 6.2-3.5z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M500.3 231.7l-6.1 3.5v-.8l6.1-3.6v.9z"
-            fill="url(#prefix__New_Gradient_Swatch-41)"
-          />
-          <path
-            d="M492 233.2l2.2 1.2v.8L492 234v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M498.2 229.6l2.1 1.2-6.1 3.6-2.2-1.2 6.2-3.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M505.1 234.5l-6.1 3.6v-.9l6.1-3.5v.8z"
-            fill="url(#prefix__New_Gradient_Swatch-42)"
-          />
-          <path
-            d="M496.8 236l2.2 1.2v.9l-2.2-1.3v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M503 232.4l2.1 1.3-6.1 3.5-2.2-1.2 6.2-3.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M510 237.3l-6.2 3.6v-.9l6.1-3.5v.8z"
-            fill="url(#prefix__New_Gradient_Swatch-43)"
-          />
-          <path
-            d="M501.6 238.8l2.2 1.2v.9l-2.2-1.3v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M507.8 235.2l2.1 1.3-6.1 3.5-2.2-1.2 6.2-3.6z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M489.9 237.8l-6.2 3.6v-.8l6.2-3.6v.8z"
-            fill="url(#prefix__New_Gradient_Swatch-44)"
-          />
-          <path
-            d="M481.6 239.3l2.1 1.3v.8l-2.1-1.2v-.9z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M487.7 235.8l2.2 1.2-6.2 3.6-2.1-1.3 6.1-3.5z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M494.7 240.7l-6.2 3.5v-.8l6.2-3.6v.9z"
-            fill="url(#prefix__New_Gradient_Swatch-45)"
-          />
-          <path
-            d="M486.4 242.2l2.1 1.2v.8l-2.1-1.2v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M492.5 238.6l2.2 1.2-6.2 3.6-2.1-1.3 6.1-3.5z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M499.5 243.5l-6.2 3.6v-.9l6.2-3.5v.8z"
-            fill="url(#prefix__New_Gradient_Swatch-46)"
-          />
-          <path
-            d="M491.2 245l2.1 1.2v.9l-2.1-1.3v-.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M497.4 241.4l2 1.3-6 3.5-2.2-1.2 6.2-3.6zm46.3-42.9l12.4 7.3-6.2 3.9-12.4-7.3 6.2-3.9z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M547.2 193.6l-4.5-2.6-4.4 2.5 4.6 2.7 4.3-2.6z"
-            className="prefix__cls-7"
-          />
-          <path
-            d="M539.2 193.5l3.5-2 3.6 2.1-3.4 2.1-3.7-2.2z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M542.9 196.2l-4.6-2.7v10l4.6 2.6v-9.9z"
-            className="prefix__cls-4"
-          />
-          <path
-            d="M547.2 193.6v9.9l-4.3 2.6v-9.9l4.3-2.6z"
-            className="prefix__cls-11"
-          />
-          <path d="M542.8 191.5v4.2l3.5-2.1-3.5-2z" className="prefix__cls-4" />
-          <path
-            d="M537.5 196l12.4 7.3-4 2.3-12.4-7.2 4-2.4z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M544.1 217.3l1.8-11.7 4-2.3v6.4l6.2-3.9v4.5l-12 7z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M545.9 205.6l-12.4-7.2-1.8 11.6 12.4 7.3 1.8-11.7z"
-            fill="url(#prefix__New_Gradient_Swatch-47)"
-          />
-          <path
-            d="M481 237.5l14 9.1c-10.5 5-23.3 3.6-23.3 3.6s-1-5.2 9.3-12.7z"
-            className="prefix__cls-27"
-          />
-          <path
-            d="M533.3 199.5l12.4 7.3-.2 1.5-12.4-7.3.2-1.5zm-.3 2.5l12.3 7.4-.2 1.5-12.4-7.3.2-1.5z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M313.3 23.1l-3.4-14.3 1.6-1.3L322 19.8l-8.6 3.3z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M270.3 42.5a5 5 0 012.2 3.8c0 1.4-1 2-2.3 1.3a4.9 4.9 0 01-2.2-3.9c0-1.4 1-2 2.3-1.2z"
             fill="none"
-            stroke="#fddd9a"
-            strokeMiterlimit={10}
-            strokeWidth={0.22}
+            d="M136.58 28.51v281.02l8.92 5.15 243.37-140.51L136.58 28.51z"
           />
+        </clipPath>
+        <clipPath id="prefix__k">
           <path
-            d="M262.5 46.1l6.1-3.8 3.3 5.4-6 3.8-3.4-5.4z"
-            className="prefix__cls-2"
+            fill="none"
+            d="M317.69 133.14v36.67l23.54 13.59v-36.67l-23.54-13.59z"
           />
+        </clipPath>
+        <clipPath id="prefix__l">
           <path
-            d="M264.2 46.2a5 5 0 012.2 3.9c0 1.4-1 2-2.2 1.3a5 5 0 01-2.2-3.9c0-1.4 1-2 2.2-1.3z"
-            className="prefix__cls-11"
+            fill="none"
+            d="M352.52 153.16v36.67l23.54 13.59v-36.67l-23.54-13.59z"
           />
+        </clipPath>
+        <clipPath id="prefix__t">
           <path
-            d="M290.4 55.6a4.9 4.9 0 012.2 3.9c0 1.4-1 2-2.2 1.3a5 5 0 01-2.2-3.9c0-1.4 1-2 2.2-1.3z"
-            className="prefix__cls-2"
+            d="M313.86 203.45s-22.07 8.51-22.07 33v7.91l62 35.82 22.07-41z"
+            fill="none"
           />
+        </clipPath>
+        <clipPath id="prefix__m">
           <path
-            d="M283 59l5.8-3.5L292 61l-6 3.7-3-5.5z"
-            className="prefix__cls-2"
+            fill="none"
+            d="M387.36 173.19v36.67l23.53 13.58v-36.66l-23.53-13.59z"
           />
+        </clipPath>
+        <clipPath id="prefix__n">
           <path
-            d="M243.2 69.5a1.3 1.3 0 00.6 1.3c1.2.8 5 1.9 15-3.4 13.3-7 40.4-23.3 46.5-26.9s10.1-8.8 13.3-12.3 5.4-6.5 5.4-6.5V19s-11.1 3.8-16.9 7-37.4 21.6-48.8 28.1c-10.1 5.8-14.7 12.7-15 15.4z"
-            className="prefix__cls-1"
+            fill="none"
+            d="M428.26 196.9v36.67l23.53 13.59v-36.67l-23.53-13.59z"
           />
+        </clipPath>
+        <clipPath id="prefix__o">
           <path
-            d="M260.1 58.2c-1.2-.7-3.8-2-4.7-2.3-8.1 5.3-11.8 11.2-12.2 13.6a1.3 1.3 0 00.6 1.3c1.2.8 5 1.9 15-3.4l3.2-1.7c0-6-.5-6.7-1.9-7.5z"
-            className="prefix__cls-2"
+            fill="none"
+            d="M482.09 227.99l-64.08-37.02v54.9l63.94 36.9.14-54.78z"
           />
+        </clipPath>
+        <clipPath id="prefix__p">
           <path
-            d="M305.2 36c-6 3.6-33.1 20-46.4 27-8.7 4.4-11.3 6.8-14.4 3.6a9 9 0 00-1.2 3 1.3 1.3 0 00.6 1.2c1.2.9 5 1.9 15-3.3 13.3-7 40.4-23.4 46.5-27s10.1-8.8 13.3-12.2 5.4-6.6 5.4-6.6v-.8s-4.8 6.6-18.8 15.1z"
-            fill="#d8cedd"
+            fill="none"
+            d="M470.08 221.04v36.66l23.53 13.59v-36.67l-23.53-13.58z"
           />
+        </clipPath>
+        <clipPath id="prefix__q">
           <path
-            d="M259.3 63v1a.2.2 0 010 .1l-.4.3h-.1v-1a.2.2 0 010-.1zm1.7-1v1a.1.1 0 010 .1l-.4.3v-1a.1.1 0 010-.1zm1.7-1v1a.2.2 0 010 .1l-.4.3h-.1v-1a.2.2 0 010-.1zm1.7-1v1a.1.1 0 010 .1l-.4.3h-.1v-1a.2.2 0 010-.1zm1.6-1v1a.2.2 0 010 .1l-.4.3v-1a.1.1 0 010-.1zm1.7-1h.1v1a.2.2 0 010 .1l-.5.3v-1a.2.2 0 010-.1zm1.7-1h.1v1a.1.1 0 010 .1l-.5.3v-1a.1.1 0 010-.2zm1.7-1v1a.2.2 0 010 .1l-.4.3v-1a.2.2 0 010-.1zm1.7-1v1a.1.1 0 010 .1l-.4.3v-1a.2.2 0 010-.1zm1.7-1v1a.2.2 0 010 .1l-.4.3v-1a.1.1 0 010-.1zm1.7-1v1a.2.2 0 010 .1l-.4.3h-.1v-1zm1.7-1v1a.1.1 0 010 .2l-.4.2h-.1v-1zm1.7-1v1a.2.2 0 010 .2l-.4.2h-.1v-1zm1.7-1v1a.1.1 0 010 .2l-.5.2v-1zm1.7-.9v1a.1.1 0 010 .1l-.5.3v-1a.1.1 0 010-.1zm1.6-1h.1v1l-.5.3v-1zm1.7-1h.1v1a.1.1 0 010 .1l-.5.3v-1a.1.1 0 010-.2zm1.7-1v1l-.4.3v-1zm1.7-1v1a.1.1 0 010 .1l-.4.3v-1a.2.2 0 010-.1zm1.7-1v1a.1.1 0 010 .1l-.4.2v-1zm1.6-1h.2v1a.2.2 0 01-.1.1l-.4.2h-.1v-.9a.2.2 0 010-.1zm2-1.8l.2.1v2.3l-1.1.6h-.2V42a.4.4 0 01.2-.3zm1.5-.2v1a.2.2 0 010 .1l-.4.3h-.1v-1a.1.1 0 010-.1zm1.7-1v1.1l-.4.3h-.1v-1zm1.7-.9v1l-.5.3v-1a.1.1 0 010-.1zm1.6-1h.1v1l-.5.3v-1a.2.2 0 010-.1zm1.7-1h.1v1l-.5.3v-1zm1.8-1v1l-.5.3v-1a.1.1 0 010-.1z"
-            className="prefix__cls-11"
+            fill="none"
+            d="M136.58 28.51v281.02l344.8 199.07.71-280.61L136.58 28.51z"
           />
-          <path
-            d="M305 29.5a44 44 0 009.3-11.5l8.3-16.3 3.3-1.7-4 20.2z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M305 29.5a44 44 0 009.3-11.5l8.3-16.3 3.3-1.7-4 20.2z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M324 21.7l17.4 3-1.6 1.3-19.8.5 4-4.8z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M275.6 58l52.9 2.5 3.1-2.5-40.4-9.1-15.6 9.1zm-7.1-9.8l-12-29.2 3.8-1.6 20.3 23.8-12 7z"
-            className="prefix__cls-1"
-          />
-          <path
-            d="M260 8.6l1.5-.7-1.2 9.5-3.8 1.6L260 8.6zm68.5 51.9l5.4-7.3 1.6-1-3.9 5.8-3.1 2.5z"
-            className="prefix__cls-2"
-          />
-          <path
-            d="M284.4 59.4a5 5 0 012.2 3.9c0 1.4-1 2-2.3 1.2a5 5 0 01-2.2-3.8c0-1.5 1-2 2.3-1.3zM252.7 66a7.8 7.8 0 01-3.6.8 3 3 0 01-3-2.5l1-1.3a2.1 2.1 0 002.2 2 5.9 5.9 0 003.4-.8z"
-            className="prefix__cls-11"
-          />
-          <path d="M264.5 164l10.4 6v-42l-10.4-6v42z" className="prefix__cls-4" />
-          <path
-            d="M283.9 164.8l-9 5.2v-42l9-5.3v42z"
-            className="prefix__cls-11"
-          />
-          <path
-            d="M283.9 122.7l-9 5.2-10.4-6 9-5.2 10.4 6z"
-            className="prefix__cls-7"
-          />
+        </clipPath>
+      </defs>
+      <title>{'Asset 3hero'}</title>
+      <g data-name="Layer 2">
+        <g data-name="Layer 1">
+          <g data-name="NatWest-longform 3-digitisation-thubmnail">
+            <path
+              fill="#00b0bc"
+              d="M124.25 316.64V7.16l370.19 213.72-.78 309.04-369.41-213.28z"
+            />
+            <path
+              fill="#7a2296"
+              d="M136.58 0l-12.33 7.16 370.19 213.72-.75 309.04 12.3-7.16.77-309.03L136.58 0z"
+            />
+            <path
+              fill="#fff"
+              d="M124.25 7.16L136.58 0l370.18 213.73-12.32 7.15L124.25 7.16"
+            />
+            <path
+              fill="#f8f4fa"
+              d="M136.58 28.51v281.02l344.8 199.07.71-280.61L136.58 28.51z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M136.58 28.51v281.02l8.92 5.15 243.37-140.51L136.58 28.51z"
+            />
+            <g clipPath="url(#prefix__b)">
+              <path
+                d="M450.41 74.14l-204 118.77H231c-39.68 14.7-68.57 7.35-68.57 7.35s.24-25.71 19.1-37.47l13.22.25 204.7-119.48z"
+                fill="#fff"
+              />
+              <path
+                d="M181.85 199.37a95.75 95.75 0 01-16.56-1.32c.57-6.16 3.37-23.53 17-32.53l13.16.25 204-119 45.6 27.33-199.37 116.08H230.5l-.46.17a139.7 139.7 0 01-48.19 9.02z"
+                fill="#33c0c9"
+              />
+              <path
+                fill="#00b0bc"
+                d="M195.46 170.9l36.01 19.28h14.21L445.05 74.1l-45.62-27.37-203 118.48-.97 5.69z"
+              />
+              <path
+                d="M179.28 169.05l-6.65 6.49c-5.46 8.55-6.94 18.27-7.34 22.56a95.78 95.78 0 0016.56 1.27 137.24 137.24 0 0039.73-6.16z"
+                fill="#66d0d7"
+              />
+              <path
+                d="M182.3 170.66l13.16.24 204-119 41.28 24.77 4.34-2.53-45.65-27.41-204 119-13.16-.25c-13.64 9-16.44 26.37-17 32.53l.7.12c1.48-7.85 5.47-20.31 16.33-27.47z"
+                fill="#f8f4fa"
+              />
+              <path
+                d="M246.42 192.91H231c-39.67 14.7-68.57 7.35-68.57 7.35 42.3 39.34 87.42 23.27 113.58 8.17l169.31-97.68 5.1-14.52V74.14z"
+                fill="#7a2296"
+              />
+              <path
+                d="M450.41 90.73V74.14l-204 118.77H231c-39.67 14.7-68.57 7.35-68.57 7.35a101.77 101.77 0 0016.87 12.79c38.18 2.26 65.19-4.34 82.49-14.33 20.99-12.09 145.79-83.61 188.62-107.99z"
+                fill="#00b0bc"
+              />
+              <path
+                fill="#4a6cb8"
+                d="M284.75 130.26v-9.43l26.01-15.17v9.43l-26.01 15.17z"
+              />
+              <path
+                fill="#33c0c9"
+                d="M284.75 120.83l-9.67-5.64 26-15.17 9.68 5.64-26.01 15.17z"
+              />
+              <path
+                fill="#00b0bc"
+                d="M275.08 115.18v9.43l9.67 5.65v-9.43l-9.67-5.65z"
+              />
+              <path
+                fill="url(#prefix__a)"
+                d="M258.75 145.46v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#fff"
+                d="M258.75 136.03l-9.68-5.64 26-15.17 9.68 5.64-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M249.07 130.38v9.43l9.68 5.65v-9.43l-9.68-5.65z"
+              />
+              <path
+                fill="url(#prefix__c)"
+                d="M294.42 135.95v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#fff"
+                d="M294.42 126.52l-9.67-5.64 26-15.17 9.67 5.64-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M284.75 120.88v9.42l9.67 5.65v-9.43l-9.67-5.64z"
+              />
+              <path
+                fill="#4a6cb8"
+                d="M304.1 141.62v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#33c0c9"
+                d="M304.1 132.19l-9.68-5.64 26-15.17 9.68 5.64-26 15.17z"
+              />
+              <path
+                fill="#00b0bc"
+                d="M294.42 126.55v9.42l9.68 5.65v-9.43l-9.68-5.64z"
+              />
+              <path
+                fill="url(#prefix__d)"
+                d="M268.43 151.1v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M268.43 141.67l-9.68-5.64 26-15.17 9.68 5.64-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M258.75 136.02v9.43l9.68 5.65v-9.43l-9.68-5.65z"
+              />
+              <path
+                fill="url(#prefix__e)"
+                d="M313.78 147.31v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M313.78 137.88l-9.68-5.64 26-15.17 9.68 5.64-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M304.1 132.24v9.43l9.68 5.64v-9.43l-9.68-5.64z"
+              />
+              <path
+                fill="url(#prefix__f)"
+                d="M232.75 160.64v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M232.75 151.21l-9.68-5.65 26-15.17 9.68 5.65-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M223.07 145.56v9.43l9.68 5.65v-9.43l-9.68-5.65z"
+              />
+              <path
+                fill="#4a6cb8"
+                d="M242.42 166.33v-9.43l26.01-15.17v9.43l-26.01 15.17z"
+              />
+              <path
+                fill="#33c0c9"
+                d="M242.42 156.9l-9.67-5.64 26-15.17 9.68 5.64-26.01 15.17z"
+              />
+              <path
+                fill="#00b0bc"
+                d="M232.75 151.25v9.43l9.67 5.65v-9.43l-9.67-5.65z"
+              />
+              <path
+                fill="#4a6cb8"
+                d="M278.1 156.79v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#33c0c9"
+                d="M278.1 147.36l-9.67-5.64 26-15.17 9.67 5.64-26 15.17z"
+              />
+              <path
+                fill="#00b0bc"
+                d="M268.43 141.71v9.43l9.67 5.65v-9.43l-9.67-5.65z"
+              />
+              <path
+                fill="url(#prefix__g)"
+                d="M252.11 171.97v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#fff"
+                d="M252.11 162.54l-9.68-5.64 26-15.17 9.68 5.64-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M242.43 156.89v9.43l9.68 5.65v-9.43l-9.68-5.65z"
+              />
+              <path
+                fill="url(#prefix__h)"
+                d="M287.78 162.48v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#fff"
+                d="M287.78 153.05l-9.68-5.64 26-15.17 9.68 5.64-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M278.1 147.41v9.42l9.68 5.65v-9.43l-9.68-5.64z"
+              />
+              <path
+                fill="#4a6cb8"
+                d="M261.78 177.66v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#33c0c9"
+                d="M261.78 168.23l-9.67-5.64 26-15.17 9.67 5.64-26 15.17z"
+              />
+              <path
+                fill="#00b0bc"
+                d="M252.11 162.58v9.43l9.67 5.65v-9.43l-9.67-5.65z"
+              />
+              <path
+                fill="#4a6cb8"
+                d="M206.75 175.81v-9.42l26-15.17v9.42l-26 15.17z"
+              />
+              <path
+                fill="#33c0c9"
+                d="M206.75 166.39l-9.68-5.65 26-15.17 9.68 5.65-26 15.17z"
+              />
+              <path
+                fill="#00b0bc"
+                d="M197.07 160.74v9.43l9.68 5.64v-9.42l-9.68-5.65z"
+              />
+              <path
+                fill="url(#prefix__i)"
+                d="M216.43 181.51v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#fff"
+                d="M216.43 172.08l-9.68-5.65 26-15.16 9.68 5.64-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M206.75 166.43v9.43l9.68 5.65v-9.43l-9.68-5.65z"
+              />
+              <path
+                fill="#4a6cb8"
+                d="M226.1 187.2v-9.43l26.01-15.17v9.43L226.1 187.2z"
+              />
+              <path
+                fill="#33c0c9"
+                d="M226.1 177.77l-9.67-5.64 26-15.17 9.68 5.64-26.01 15.17z"
+              />
+              <path
+                fill="#00b0bc"
+                d="M216.43 172.12v9.43l9.67 5.65v-9.43l-9.67-5.65z"
+              />
+              <path
+                fill="url(#prefix__j)"
+                d="M235.78 192.89v-9.43l26-15.17v9.43l-26 15.17z"
+              />
+              <path
+                fill="#fff"
+                d="M235.78 183.46l-9.68-5.64 26.01-15.17 9.67 5.64-26 15.17z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M226.1 177.81v9.43l9.68 5.65v-9.43l-9.68-5.65z"
+              />
+            </g>
+            <path
+              fill="#7a2296"
+              d="M148.91 302.45V35.63l-12.33-7.12v281.02l12.33-7.08z"
+            />
+            <path
+              fill="#fff"
+              d="M227.05 310.08L481.51 457l.58-229.01-56.42-32.58-198.62 114.67z"
+            />
+            <path
+              fill="#33c0c9"
+              d="M309.33 183.11v119.78l108.68 62.74V245.85l-108.68-62.74z"
+            />
+            <path
+              fill="#66d0d7"
+              d="M309.33 128.22v54.89l108.68 62.74v-54.88l-108.68-62.75z"
+            />
+            <path
+              fill="#33c0c9"
+              d="M333.77 187.74l-23.54-13.59v1.11l23.54 13.58v-1.1z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M341.23 183.43l-7.46 4.31v1.1l7.46-4.31v-1.1z"
+            />
+            <path
+              fill="#fff"
+              d="M341.23 183.4l-23.54-13.59-7.46 4.34 23.54 13.59 7.46-4.34z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M317.69 133.14v36.67l23.54 13.59v-36.67l-23.54-13.59z"
+            />
+            <g clipPath="url(#prefix__k)">
+              <path fill="#6e89c7" d="M329.14 133.07h.63v45.16h-.63z" />
+            </g>
+            <path
+              fill="#33c0c9"
+              d="M368.6 207.76l-23.54-13.58v1.1l23.54 13.58v-1.1z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M376.06 203.46l-7.46 4.3v1.1l7.46-4.3v-1.1z"
+            />
+            <path
+              fill="#fff"
+              d="M376.06 203.42l-23.54-13.58-7.46 4.34 23.54 13.58 7.46-4.34z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M352.52 153.16v36.67l23.54 13.59v-36.67l-23.54-13.59z"
+            />
+            <g clipPath="url(#prefix__l)">
+              <path fill="#6e89c7" d="M363.98 153.09h.63v45.16h-.63z" />
+            </g>
+            <path
+              fill="#33c0c9"
+              d="M403.43 227.78l-23.54-13.58v1.1l23.54 13.58v-1.1z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M410.89 223.48l-7.46 4.3v1.1l7.46-4.3v-1.1z"
+            />
+            <path
+              fill="#fff"
+              d="M410.89 223.44l-23.54-13.58-7.46 4.34 23.54 13.58 7.46-4.34z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M387.36 173.19v36.67l23.53 13.58v-36.66l-23.53-13.59z"
+            />
+            <g clipPath="url(#prefix__m)">
+              <path fill="#6e89c7" d="M398.81 173.11h.63v45.16h-.63z" />
+            </g>
+            <path
+              fill="#00b0bc"
+              d="M378.43 342.78V223l39.58 22.85v119.78l-39.58-22.85z"
+            />
+            <path
+              fill="#66d0d7"
+              d="M481.95 282.77l-63.94-36.92v119.78l63.64 36.75.3-119.61z"
+            />
+            <path
+              fill="#33c0c9"
+              d="M482.09 227.99l-64.08-37.02v54.9l63.94 36.9.14-54.78z"
+            />
+            <path
+              fill="#66d0d7"
+              d="M444.33 251.5l-23.54-13.58v1.1l23.54 13.58v-1.1z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M451.79 247.19l-7.46 4.31v1.1l7.46-4.3v-1.11z"
+            />
+            <path
+              fill="#fff"
+              d="M451.79 247.16l-23.54-13.58-7.46 4.34 23.54 13.58 7.46-4.34z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M428.26 196.9v36.67l23.53 13.59v-36.67l-23.53-13.59z"
+            />
+            <g clipPath="url(#prefix__n)">
+              <path fill="#6e89c7" d="M439.71 196.83h.63v45.16h-.63z" />
+            </g>
+            <g clipPath="url(#prefix__o)">
+              <path
+                fill="#66d0d7"
+                d="M486.15 275.63l-23.54-13.58v1.1l23.54 13.58v-1.1z"
+              />
+              <path
+                fill="#4a6cb8"
+                d="M493.61 271.33l-7.46 4.3v1.1l7.46-4.3v-1.1z"
+              />
+              <path
+                fill="#fff"
+                d="M493.61 271.29l-23.54-13.58-7.46 4.34 23.54 13.58 7.46-4.34z"
+              />
+              <path
+                fill="#4a6cb8"
+                d="M470.08 221.04v36.66l23.53 13.59v-36.67l-23.53-13.58z"
+              />
+              <g clipPath="url(#prefix__p)">
+                <path fill="#6e89c7" d="M481.53 220.96h.63v45.16h-.63z" />
+              </g>
+            </g>
+            <g clipPath="url(#prefix__q)">
+              <path
+                fill="#4a6cb8"
+                d="M370.08 445.2l9.44-5.8-9.12-1.13-.32 6.93zM410.29 468.45l9.44-5.8-9.12-1.13-.32 6.93z"
+              />
+              <path
+                d="M382.3 457.47s2.85-1.66 3.59-2.07c1.2-.67 2-2.1 2-4.19a14.22 14.22 0 00-6.44-11.15c-1.81-1-3.45-1.12-4.63-.43l-3.82 2.19z"
+                fill="#00b0bc"
+              />
+              <path
+                d="M377.66 442.22a14.18 14.18 0 016.44 11.16c0 4.09-2.91 5.75-6.48 3.69a14.18 14.18 0 01-6.44-11.15c.02-4.1 2.92-5.76 6.48-3.7z"
+                fill="#490b63"
+              />
+              <path
+                d="M380.52 455.75a3.7 3.7 0 01-1.79-.59 12 12 0 01-5.34-9.24c0-2.07.87-2.37 1.38-2.37a3.66 3.66 0 011.79.59 12 12 0 015.34 9.23c-.01 2.07-.9 2.38-1.38 2.38z"
+                fill="#f6f3f7"
+              />
+              <path
+                d="M465.75 464.57v-7.25s-.94-6.46-11.17-17.84c-4-4.48-11.29-12.89-15.65-18a35.29 35.29 0 00-8.33-7.07l-17.32-9a13.11 13.11 0 00-12.65.33l-25.05 14.66L439.8 482z"
+                fill="#33c0c9"
+              />
+              <path
+                d="M465 454.84a12.09 12.09 0 01.78 2.5v7.25L439.8 482l-5.94-5.88z"
+                fill="#4a6cb8"
+              />
+              <path
+                d="M445.05 468.47l-4 2.73c-2.85-.43-7.88-2.18-9.32-4.76-1.87-3.39-2.74-4.92-2.74-4.92s11.81.55 16.06 6.95z"
+                fill="#fff"
+              />
+              <path
+                d="M408.94 436.52l27.65-17.43c.81.77 1.6 1.58 2.34 2.43 4.36 5.07 11.62 13.48 15.65 18L422.83 460s-9.74-23.86-13.89-23.48z"
+                fill="url(#prefix__r)"
+              />
+              <path
+                d="M422.53 480.36s2.85-1.66 3.59-2.07c1.2-.67 2-2.1 2-4.19a14.2 14.2 0 00-6.47-11.1c-1.81-1-3.44-1.12-4.63-.43l-3.79 2.19z"
+                fill="#00b0bc"
+              />
+              <path
+                d="M417.9 465.11a14.24 14.24 0 016.44 11.16c0 4.09-2.92 5.75-6.49 3.69a14.14 14.14 0 01-6.43-11.15c.01-4.1 2.91-5.76 6.48-3.7z"
+                fill="#490b63"
+              />
+              <path
+                d="M420.75 478.64a3.7 3.7 0 01-1.79-.59 12 12 0 01-5.34-9.24c0-2.07.87-2.37 1.38-2.37a3.66 3.66 0 011.79.59 12 12 0 015.34 9.23c-.01 2.07-.87 2.38-1.38 2.38z"
+                fill="#f6f3f7"
+              />
+              <path
+                d="M407.52 432.79c9 5.44 24.19 29.15 30.45 41.3a16.46 16.46 0 011.83 7.91 9.58 9.58 0 01-7.58-.88l-6.8-3.93c0-.31.06-.61.07-.92a15.23 15.23 0 00-7-12.15 7 7 0 00-3.47-1c-2.72 0-4.57 2.15-4.71 5.37L385.21 454a5.48 5.48 0 00.05-.57 15.23 15.23 0 00-7-12.15 7 7 0 00-3.47-1c-2.62 0-4.43 2-4.69 5l-2.29-1.28v-15.51l5-5.72a10.81 10.81 0 0113.39-2.38c4.55 2.54 11.45 6.48 21.32 12.4z"
+                fill="#00b0bc"
+              />
+              <path
+                d="M385.34 421.84c5.83 3.22 13 7.38 21.32 12.38 3.77 2.26 9.37 8.53 15.77 17.66 1.41 2 2.86 4.16 4.28 6.36l-55-31.71 2.32-2.67a9.17 9.17 0 0111.33-2z"
+                fill="url(#prefix__s)"
+              />
+              <path
+                d="M462.6 456.39s-3.9-4.39-4.91-13.39a43.83 43.83 0 017.31 11.84z"
+                fill="#fff"
+              />
+              <path
+                fill="#00b0bc"
+                d="M401.38 430.87h.63v16.76h-.63zM380.79 419.09h.63v16.88h-.63z"
+              />
+            </g>
+            <path
+              fill="#fff"
+              d="M481.38 508.6l.04-14.17-332.51-191.98-12.26 7.12L481.38 508.6z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M375.9 239.27l-62.03-35.82v79.58l62.03 35.81v-79.57zM481.91 300.45l-55.32-31.94v79.57l55.12 31.83.2-79.46zM380.44 241.89v56.6l33.03 19.07v-56.6l-33.03-19.07z"
+            />
+            <path
+              d="M313.86 203.45s-22.07 8.51-22.07 33v7.91l62 35.82 22.07-41z"
+              fill="#00b0bc"
+            />
+            <g fill="#33c0c9" clipPath="url(#prefix__t)">
+              <path d="M345.29 279.24h-.63v-12.05c0-24.46 22-33.24 22.27-33.33l.22.59c-.22.08-21.86 8.72-21.86 32.74z" />
+              <path d="M336.42 274.12h-.62v-12c0-24.47 22-33.25 22.26-33.33l.23.58c-.22.09-21.87 8.72-21.87 32.75z" />
+              <path d="M327.56 269h-.63v-12c0-24.46 22.05-33.25 22.27-33.33l.23.58c-.22.09-21.87 8.73-21.87 32.75z" />
+              <path d="M318.7 263.88h-.63v-12c0-24.46 22.05-33.24 22.27-33.33l.23.59c-.22.08-21.87 8.72-21.87 32.74z" />
+              <path d="M309.84 258.77h-.63v-12c0-24.46 22.05-33.24 22.27-33.33l.23.59c-.22.09-21.87 8.72-21.87 32.74z" />
+              <path d="M301 253.65h-.63v-12c0-24.46 22-33.25 22.27-33.33l.22.58c-.21.09-21.86 8.73-21.86 32.75z" />
+            </g>
+            <path
+              d="M375.9 239.27s-22.07 8.51-22.07 33v7.91l22.07-12.78zM481.91 300.5l-21.71 26.02v8.67l21.65-12.58.06-22.11z"
+              fill="#33c0c9"
+            />
+            <path
+              d="M388.87 307.63a.22.22 0 01-.16 0l-8.43-4.87a.32.32 0 01-.12-.43.3.3 0 01.42-.11l8.43 4.87a.31.31 0 01.13.42.32.32 0 01-.27.12zM297.04 297.22h.63v30h-.63z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M306.72 323.71h-.62v-1.12a.42.42 0 00-.28-.4l-8.57-3.11.21-.59 8.54 3.11a1 1 0 01.69 1z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M288.62 323.71H288v-1.12a1.06 1.06 0 01.69-1l8.57-3.11.21.59-8.57 3.11a.44.44 0 00-.27.4z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M280.61 299c.11 2.41 1.75 4.8 4.94 6.64 6.56 3.79 17.17 3.79 23.69 0 3.26-1.89 4.88-4.38 4.87-6.86v-1.6h-33.5z"
+              fill="#00b0bc"
+            />
+            <path
+              d="M289.38 307.33c6.37 2 14.49 1.47 19.86-1.65 3.26-1.89 4.88-4.38 4.87-6.86v-1.6h-24.73z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M309.16 290.36c6.57 3.79 6.6 9.93.08 13.72s-17.13 3.8-23.69 0-6.6-9.94-.08-13.73 17.13-3.78 23.69.01z"
+              fill="#00b0bc"
+            />
+            <path fill="#4a6cb8" d="M311.62 314.67h.63v18.02h-.63z" />
+            <path
+              d="M317.69 330.58h-.63v-.68a.12.12 0 00-.09-.11l-5.14-1.87.21-.59 5.15 1.86a.76.76 0 01.5.71z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M306.81 330.58h-.63v-.68a.76.76 0 01.5-.71l5.15-1.86.21.59-5.15 1.87a.11.11 0 00-.08.11z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M305.94 315.08a3 3 0 001.77 2.37 9.3 9.3 0 008.47 0 2.93 2.93 0 001.74-2.45v-.88h-12z"
+              fill="#00b0bc"
+            />
+            <path
+              d="M309.08 318a9.42 9.42 0 007.1-.59 2.93 2.93 0 001.74-2.45v-.88h-8.84z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M316.16 311.66c2.34 1.36 2.35 3.56 0 4.91a9.3 9.3 0 01-8.47 0c-2.35-1.35-2.36-3.55 0-4.91a9.36 9.36 0 018.47 0z"
+              fill="#00bfc8"
+            />
+            <path fill="#4a6cb8" d="M282.79 314.67h.63v18.02h-.63z" />
+            <path
+              d="M288.86 330.58h-.63v-.68a.11.11 0 00-.08-.11l-5.15-1.87.22-.59 5.14 1.86a.76.76 0 01.5.71z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M278 330.58h-.63v-.68a.76.76 0 01.5-.71l5.15-1.86.22.59-5.15 1.87a.12.12 0 00-.09.11z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M277.12 315.08a3 3 0 001.77 2.37 9.3 9.3 0 008.47 0 3 3 0 001.74-2.45v-.88h-12z"
+              fill="#00b0bc"
+            />
+            <path
+              d="M280.26 318a9.42 9.42 0 007.1-.59 3 3 0 001.74-2.41v-.88h-8.84z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M287.33 311.66c2.35 1.36 2.36 3.56 0 4.91a9.3 9.3 0 01-8.47 0c-2.35-1.35-2.36-3.55 0-4.91a9.36 9.36 0 018.47 0z"
+              fill="#00bfc8"
+            />
+            <path fill="#4a6cb8" d="M337.85 323.06h.63v30h-.63z" />
+            <path
+              d="M347.53 349.55h-.63v-1.13a.42.42 0 00-.27-.39l-8.57-3.11.21-.59 8.57 3.11a1 1 0 01.69 1z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M329.42 349.55h-.63v-1.13a1 1 0 01.69-1l8.58-3.11.21.59-8.57 3.1a.41.41 0 00-.28.39z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M321.42 324.87c.1 2.42 1.75 4.81 4.93 6.65 6.57 3.79 17.17 3.79 23.7 0 3.26-1.9 4.88-4.38 4.86-6.86v-1.6h-33.5z"
+              fill="#00b0bc"
+            />
+            <path
+              d="M330.18 333.17c6.37 2 14.5 1.47 19.87-1.65 3.26-1.9 4.88-4.38 4.86-6.86v-1.6h-24.73z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M350 316.2c6.56 3.79 6.59 9.93.08 13.72s-17.13 3.79-23.7 0-6.59-9.93-.07-13.72 17.1-3.79 23.69 0z"
+              fill="#00b0bc"
+            />
+            <path fill="#4a6cb8" d="M352.42 340.5h.63v18.02h-.63z" />
+            <path
+              d="M358.49 356.42h-.63v-.68a.13.13 0 00-.08-.12l-5.15-1.86.22-.6L358 355a.76.76 0 01.5.71z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M347.61 356.42H347v-.68a.76.76 0 01.5-.71l5.15-1.87.22.6-5.15 1.86a.14.14 0 00-.09.12z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M346.75 340.91a3.06 3.06 0 001.77 2.38 9.3 9.3 0 008.47 0 3 3 0 001.74-2.45V340h-12z"
+              fill="#00b0bc"
+            />
+            <path
+              d="M349.89 343.88a9.51 9.51 0 007.1-.59 3 3 0 001.74-2.45V340h-8.84z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M357 337.5c2.35 1.35 2.36 3.55 0 4.91a9.36 9.36 0 01-8.47 0c-2.35-1.36-2.36-3.56 0-4.91a9.3 9.3 0 018.47 0z"
+              fill="#00bfc8"
+            />
+            <path fill="#4a6cb8" d="M323.6 340.5h.63v18.02h-.63z" />
+            <path
+              d="M329.67 356.42H329v-.68a.13.13 0 00-.08-.12l-5.15-1.86.21-.6 5.15 1.87a.76.76 0 01.5.71z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M318.79 356.42h-.63v-.68a.76.76 0 01.5-.71l5.15-1.87.21.6-5.15 1.86a.13.13 0 00-.08.12z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M317.93 340.91a3 3 0 001.76 2.38 9.3 9.3 0 008.47 0 3 3 0 001.75-2.45V340h-12z"
+              fill="#00b0bc"
+            />
+            <path
+              d="M321.06 343.88a9.46 9.46 0 007.1-.59 3 3 0 001.75-2.45V340h-8.85z"
+              fill="#4a6cb8"
+            />
+            <path
+              d="M328.14 337.5c2.34 1.35 2.36 3.55 0 4.91a9.36 9.36 0 01-8.47 0c-2.34-1.36-2.36-3.56 0-4.91a9.3 9.3 0 018.47 0z"
+              fill="#00bfc8"
+            />
+            <path
+              fill="#fff"
+              d="M481.91 300.18l-55.32-31.67-21.89 26.24v8.66l55.5 31.78v-8.67l21.71-26.02v-.32z"
+            />
+            <path
+              fill="#f8f4fa"
+              d="M460.2 326.52l-55.5-31.77v8.66l55.5 31.78v-8.67z"
+            />
+            <path
+              d="M270.51 259.63a2.75 2.75 0 00-2.83.24 8.65 8.65 0 00-3.9 6.76 2.71 2.71 0 001.24 2.61l3 1.72 5.6-9.5z"
+              fill="#00b0bc"
+            />
+            <ellipse
+              cx={270.87}
+              cy={266.15}
+              rx={5.52}
+              ry={3.2}
+              transform="rotate(-59.84 270.876 266.154)"
+              fill="#4a6cb8"
+            />
+            <path
+              fill="#33c0c9"
+              d="M256.04 253.96l-1.14 1.07v1.18l2.37 1.55v-1.18l-.84.68-2.21 1.48v.43l2.38 1.55 4.09-2.96-1.54-4.51-3.11.71z"
+            />
+            <path
+              fill="#516cb3"
+              d="M258.42 255.51l-1.15 1.07v1.18l1.15-.96h1.22l-.83 2.01-2.21 1.48v.43l2.84-1 1.69-1.96.41-2.96-3.12.71z"
+            />
+            <path
+              fill="#00b0bc"
+              d="M254.9 255.03l2.37 1.55v1.18l-2.37-1.55v-1.18zM254.22 258.74l2.38 1.55v.43l-2.38-1.55v-.43z"
+            />
+            <path
+              d="M261.65 248.24l-3 7.47a8.87 8.87 0 002.11-.49c1.14-.41 2.18-1.59 2.88-3.87a15 15 0 00.72-5.23z"
+              fill="url(#prefix__u)"
+            />
+            <path
+              d="M262.22 247.77c-.05-1.23-.68-2.11-.68-3.49l-2.74 2.13-3 7.47 2.85 1.8 3-7.47z"
+              fill="#f8f3f8"
+            />
+            <path
+              d="M261.15 243.89a1.15 1.15 0 00-1 .15 3.34 3.34 0 00-1.49 2.58 1 1 0 00.55 1c.71.3 2.61 1.15 2.61 1.15l2-3.71z"
+              fill="#f8f3f8"
+            />
+            <path
+              fill="#00b0bc"
+              d="M261.39 241.79v4.56l-1.65-.96.01-4.55 1.64.95z"
+            />
+            <path
+              fill="#516cb3"
+              d="M261.39 241.79v4.56l1.67-.96-.01-4.55-1.66.95z"
+            />
+            <path
+              d="M261.13 232.47l-3.21 1.77 3.61 10 3.21-1.79c-.02-2.86.16-8.13-3.61-9.98z"
+              fill="url(#prefix__v)"
+            />
+            <path
+              d="M257.92 234.24v8.22l3.61 1.8c0-2.88.19-8.15-3.61-10.02z"
+              fill="#f8f3f8"
+            />
+            <ellipse
+              cx={262.49}
+              cy={246.76}
+              rx={2.11}
+              ry={1.22}
+              transform="rotate(-59.84 262.488 246.765)"
+              fill="#f8f3f8"
+            />
+            <ellipse
+              cx={262.9}
+              cy={246.93}
+              rx={2.11}
+              ry={1.22}
+              transform="rotate(-59.84 262.9 246.933)"
+              fill="url(#prefix__w)"
+            />
+            <ellipse
+              cx={262.9}
+              cy={246.93}
+              rx={0.99}
+              ry={0.57}
+              transform="rotate(-59.84 262.9 246.933)"
+              fill="#7a2296"
+            />
+            <path
+              d="M266.35 260.91a3.49 3.49 0 012.91 2.07 11 11 0 01.59 4.3l5.44-2.59 2.55-4.87v-3.3L273 259l-11.14-5.47v3.19l1 4.87 1.51 2.21a8.75 8.75 0 011.98-2.89z"
+              fill="url(#prefix__x)"
+            />
+            <path
+              d="M273 261.13V259l-11.14-5.47v3.19l1 4.87 1.51 2.21a8.8 8.8 0 011.94-2.9 3.49 3.49 0 012.91 2.07 11 11 0 01.59 4.3z"
+              fill="#fff"
+            />
+            <path
+              fill="url(#prefix__y)"
+              d="M273 259.01l1.79-10.3 2.9-3.51 6.31-3.55-2.32 3.02-3.83 11.85-4.85 2.49z"
+            />
+            <path
+              fill="#fff"
+              d="M284 241.69l-5.37-5.6-10.15-5.29-4.65-.13-6.32 3.51 20.18 11.02 6.31-3.51z"
+            />
+            <path
+              fill="#f8f3f8"
+              d="M277.69 245.2l-5.37-5.59-10.17-5.29-4.64-.14 3.01 6.59 1.35 12.77 11.13 5.47 1.79-10.3 2.9-3.51z"
+            />
+            <path
+              fill="#fff"
+              d="M263.79 243.41l3.17 12.63 3.58-9.26-6.75-3.37zM272.32 239.61l6.31-3.52 5.37 5.6-6.31 3.51-5.37-5.59zM262.15 234.32l6.33-3.52-4.65-.13-6.32 3.51 4.64.14z"
+            />
+            <path
+              fill="url(#prefix__z)"
+              d="M274.79 248.71l6.89-4.04 2.32-2.98-6.31 3.51-2.9 3.51z"
+            />
+            <path
+              fill="#33c0c9"
+              d="M276.61 264.45l-1.15 1.06v1.19l2.39 1.54v-1.18l-.85.68-2.21 1.48v.43l2.39 1.55 4.08-2.96-1.52-4.51-3.13.72z"
+            />
+            <path
+              fill="#516cb3"
+              d="M278.99 265.99l-1.14 1.07v1.18l1.14-.96h1.22l-.83 2.01-2.2 1.48v.43l2.83-1 1.68-1.96.43-2.96-3.13.71z"
+            />
+            <path
+              fill="#00b0bc"
+              d="M275.46 265.51l2.39 1.55v1.18l-2.39-1.54v-1.19zM274.79 269.22l2.39 1.55v.43l-2.39-1.55v-.43z"
+            />
+            <path
+              d="M282.22 258.7l-3 7.47a9.32 9.32 0 002.1-.5c1.14-.41 2.18-1.59 2.88-3.87a15 15 0 00.72-5.23z"
+              fill="url(#prefix__A)"
+            />
+            <path
+              d="M282.8 258.24c-.06-1.23-.69-2.11-.69-3.48l-2.74 2.12-3 7.47 2.85 1.81 3-7.47z"
+              fill="#f8f3f8"
+            />
+            <path
+              d="M281.72 254.37a1.15 1.15 0 00-1 .15 3.27 3.27 0 00-1.49 2.58 1 1 0 00.54 1l2.61 1.15 2-3.71z"
+              fill="#f8f3f8"
+            />
+            <path
+              fill="#00b0bc"
+              d="M281.98 252.27v4.57l-1.67-.97.01-4.55 1.66.95z"
+            />
+            <path
+              fill="#516cb3"
+              d="M281.98 252.27v4.57l1.65-.97v-4.55l-1.65.95z"
+            />
+            <path
+              d="M281.72 243l-3.21 1.79 3.62 10 3.21-1.79c-.02-2.93.13-8.2-3.62-10z"
+              fill="url(#prefix__B)"
+            />
+            <path
+              d="M278.49 244.74V253l3.62 1.81c0-2.95.16-8.22-3.62-10.07z"
+              fill="#f8f3f8"
+            />
+            <ellipse
+              cx={283.06}
+              cy={257.25}
+              rx={2.11}
+              ry={1.22}
+              transform="rotate(-59.84 283.064 257.254)"
+              fill="#f8f3f8"
+            />
+            <ellipse
+              cx={283.47}
+              cy={257.42}
+              rx={2.11}
+              ry={1.22}
+              transform="rotate(-59.84 283.468 257.417)"
+              fill="url(#prefix__C)"
+            />
+            <ellipse
+              cx={283.47}
+              cy={257.42}
+              rx={0.99}
+              ry={0.57}
+              transform="rotate(-59.84 283.468 257.417)"
+              fill="#7a2296"
+            />
+            <path
+              fill="#f5eef7"
+              d="M274.79 248.71l-14.08-6.78-3.2-7.75 4.64.14 10.17 5.29 5.37 5.59-2.9 3.51z"
+            />
+            <path
+              d="M269.45 256.31a2.4 2.4 0 011.08 1.88c0 .68-.49 1-1.09.61l-4-2.32a2.42 2.42 0 01-1.08-1.87c0-.69.49-1 1.09-.62zM271.95 240.65l-1.32 5.63-6.87-3.49-1.3-7.15 9.49 5.01z"
+              fill="#00afbb"
+            />
+            <path
+              d="M269.15 240.08a1.16 1.16 0 01.59.92c0 .34-.24.49-.56.32l-4-2.08a1.2 1.2 0 01-.59-.92c0-.34.24-.48.56-.32z"
+              fill="#33c0c9"
+            />
+            <path
+              fill="url(#prefix__D)"
+              d="M276.49 224.12l.03 10.91-6.27 3.62-2.11-2.1-.01-6.43 2.08-2.38 6.28-3.62z"
+            />
+            <path
+              fill="#fff"
+              d="M263.23 224.02l6.98 3.72 6.28-3.62-6.99-3.71-6.27 3.61z"
+            />
+            <path
+              fill="#f5eef7"
+              d="M268.13 230.12l-6.99-3.71 2.09-2.39 6.98 3.72-2.08 2.38z"
+            />
+            <path
+              fill="#f5eef7"
+              d="M268.14 236.55l-6.97-3.71v-6.43l6.96 3.71.01 6.43z"
+            />
+            <path
+              fill="#4a6cb8"
+              d="M268.14 236.55l-6.97-3.71v-6.43l6.96 3.71.01 6.43z"
+            />
+            <path
+              fill="#f5eef7"
+              d="M270.25 238.65l-6.85-3.68-2.23-2.13 6.97 3.71 2.11 2.1z"
+            />
+            <path
+              d="M263.72 230.63a.16.16 0 01-.16-.16 1.15 1.15 0 00-.52-.9.26.26 0 00-.27 0c-.07 0-.1.12-.1.25a.15.15 0 01-.16.15.16.16 0 01-.16-.15.61.61 0 01.26-.53.57.57 0 01.58.05 1.42 1.42 0 01.68 1.17.14.14 0 01-.15.12zM266.6 232.14a.16.16 0 01-.15-.16 1.15 1.15 0 00-.52-.9.3.3 0 00-.28-.05.32.32 0 00-.09.26.15.15 0 01-.16.15.16.16 0 01-.16-.15.61.61 0 01.26-.53.6.6 0 01.58 0 1.46 1.46 0 01.68 1.18.15.15 0 01-.11.2z"
+              fill="#f4edf6"
+            />
+            <path
+              d="M265.28 235.68h-.07l-1.08-.57a.17.17 0 01-.06-.21.15.15 0 01.2-.07l1.07.57a.17.17 0 01.08.22.14.14 0 01-.14.06z"
+              fill="#7a2296"
+            />
+            <g>
+              <path
+                d="M206.27 305.14l-2.62 1.55a3.17 3.17 0 013.21.31l2.62-1.55a3.17 3.17 0 00-3.21-.31z"
+                fill="#6e89c7"
+              />
+              <path
+                d="M210.05 317.68l2.61-1.54a3.15 3.15 0 001.31-2.9 9.88 9.88 0 00-4.49-7.79l-2.62 1.55a9.88 9.88 0 014.5 7.79 3.13 3.13 0 01-1.31 2.89z"
+                fill="#4a6cb8"
+              />
+              <path
+                d="M206.86 307c-2.49-1.44-4.51-.28-4.52 2.58a9.88 9.88 0 004.49 7.79c2.5 1.44 4.52.28 4.53-2.58a9.88 9.88 0 00-4.5-7.79z"
+                fill="#00b0bc"
+              />
+              <path
+                d="M208.16 315.16c.71 0 .82-.81.82-1.28a5.63 5.63 0 00-2.52-4.37 1.89 1.89 0 00-.92-.3c-.71 0-.82.8-.82 1.28a5.63 5.63 0 002.52 4.37 2 2 0 00.92.3z"
+                fill="#33c0c9"
+              />
+              <path
+                d="M206.86 312.81a.62.62 0 01-.5-.25l-2.67-3.62a.65.65 0 01-.13-.38v-4.89a.64.64 0 01.63-.63.63.63 0 01.63.63v4.69l2.55 3.45a.63.63 0 01-.13.88.64.64 0 01-.38.12z"
+                fill="#4a6cb8"
+              />
+              <path
+                d="M196.11 302.66V285.6a12 12 0 0111.95-12.05h.05a12 12 0 0112 12.05v17.07c0 1.79-1.2 3.57-3.56 4.94-4.72 2.72-12.35 2.72-17 0-2.29-1.37-3.46-3.16-3.44-4.95z"
+                fill="url(#prefix__E)"
+              />
+              <path
+                d="M203.09 274.67c4.12 1.91 8 8.32 8 13.16v21.61l-1 .11a18.07 18.07 0 01-10.46-1.95c-2.35-1.36-3.52-3.15-3.5-4.94V285.6a12 12 0 016.96-10.93z"
+                fill="#f8f4fa"
+              />
+              <path
+                d="M199.61 297.46c4.69 2.72 12.32 2.72 17 0 2.36-1.36 3.55-3.15 3.56-4.94v3.27c0 1.79-1.2 3.57-3.56 4.94-4.72 2.72-12.35 2.72-17 0-2.35-1.37-3.52-3.16-3.5-5v-3.27c-.02 1.84 1.15 3.63 3.5 5z"
+                fill="#6e89c7"
+              />
+              <path
+                d="M199.61 297.46a18.52 18.52 0 0011.47 1.82v3.27a18.52 18.52 0 01-11.47-1.82c-2.35-1.37-3.52-3.16-3.5-5v-3.27c-.02 1.84 1.15 3.63 3.5 5z"
+                fill="#4a6cb8"
+              />
+              <path
+                d="M199.61 302.25c4.69 2.72 12.32 2.72 17 0 2.36-1.37 3.55-3.15 3.56-4.94v1c0 1.78-1.2 3.57-3.56 4.93-4.72 2.73-12.35 2.73-17 0-2.35-1.36-3.52-3.15-3.5-4.94v-1c-.02 1.79 1.15 3.58 3.5 4.95z"
+                fill="#33c0c9"
+              />
+              <path
+                d="M199.61 302.25a18.52 18.52 0 0011.47 1.82v1a18.45 18.45 0 01-11.47-1.83c-2.35-1.36-3.52-3.15-3.5-4.94v-1c-.02 1.79 1.15 3.58 3.5 4.95z"
+                fill="#00b0bc"
+              />
+              <path
+                d="M210.07 291.85a16.57 16.57 0 006.58-2 9.47 9.47 0 002-1.51v3.27a9.47 9.47 0 01-2 1.51 16.18 16.18 0 01-6.58 1.94z"
+                fill="#7a2296"
+              />
+              <circle cx={207.18} cy={297.3} r={0.61} fill="#4a6cb8" />
+              <circle cx={207.18} cy={295.01} r={0.61} fill="#4a6cb8" />
+            </g>
+            <g>
+              <path
+                fill="#fff"
+                d="M119.18 403.35l-45.04 26.28L32.1 405.2l44.76-26.28 42.32 24.43z"
+              />
+              <path
+                fill="#fff"
+                d="M119.18 403.35l-45.04 26.28L32.1 405.2l44.76-26.28 42.32 24.43z"
+              />
+              <path
+                fill="#7a2296"
+                d="M37.73 405.19l39.15-22.98 36.64 21.16-39.38 22.97-36.41-21.15z"
+              />
+              <path
+                fill="url(#prefix__F)"
+                d="M74.14 510.24v-80.61l45.04-26.28v80.62l-45.04 26.27z"
+              />
+              <path
+                fill="#f8f4fa"
+                d="M74.14 510.24v-80.61L32.1 405.2v80.61l42.04 24.43z"
+              />
+              <path
+                fill="#4a6cb8"
+                d="M74.14 510.24l45.04-26.27v-16.52l-45.04 26.27v16.52z"
+              />
+              <path
+                fill="#00b0bc"
+                d="M32.1 485.81l42.04 24.43v-16.52L32.1 469.29v16.52zM75.62 407.47s-.94-18.14-9.18-34.4-15.33-12-13.32-29.45 7.43-21.2 6-32.28-8.54-17.21-4.94-28.74c3.53-11.31 8.55-14.25 9.42-22.85 1.89-18.66 2.08-27.2 13.9-30.86 0 0-2.12 3.66 2.59 12.2s10.13 15.6 5.42 24.78-3.91 13.43 1.82 24.27 11.8 17.91 7.09 28-4.42 18.56-2.54 27.37c4.78 21.91-16.26 22.38-16.26 61.96z"
+              />
+              <path
+                d="M75.62 407.47S73.27 391 58 376.61s-29-8-29-27.09 6.6-18.15-3.3-31.81-.94-38.41-.94-38.41S49 289.43 53.12 302.86s-.11 24 11.67 32.52 10.21 11.78 9.35 24.26 1.48 47.83 1.48 47.83z"
+                fill="#00b0bc"
+              />
+              <path
+                d="M75.62 407.47s5.09-56 68.09-57.48c0 0-2.33 3.6-3.82 12.51s-7.85 12.09-17 12.09-8.44 10.82-14.84 17-26.27 5.7-32.43 15.88z"
+                fill="#00b0bc"
+              />
+              <path
+                d="M75.62 407.47v-28.55c0-23.05 0-66.16 41.24-103.15 0 0-8.1 12.49-3.34 24.27s5 21.67-5.62 34.86-.7 13.2.71 26.63-29.22 19.55-32.99 45.94zM75.62 407.47S70 345.27 0 343.62c0 0 2.59 4 4.24 13.9S13 371 23.09 371s9.37 12 16.49 18.85 29.21 6.31 36.04 17.62z"
+                fill="#33c0c9"
+              />
+            </g>
+            <g>
+              <path
+                fill="#4a6cb8"
+                d="M194.07 467.19v3.27l-21.67 12.68v-3.28l21.67-12.67z"
+              />
+              <path
+                fill="#00b0bc"
+                d="M147.68 440.4l46.39 26.79-21.67 12.67-46.4-26.79 21.68-12.67z"
+              />
+              <path
+                fill="#f8f3f8"
+                d="M126 456.35l46.4 26.79-4.43 53.22-37.85-21.85-4.12-58.16z"
+              />
+              <path
+                fill="url(#prefix__G)"
+                d="M167.97 536.36l21.67-12.67 4.43-53.23-21.67 12.68-4.43 53.22z"
+              />
+              <path
+                fill="#33c0c9"
+                d="M172.4 483.14v-3.28L126 453.07v3.28l46.4 26.79z"
+              />
+              <path
+                d="M150.46 506.15zM150.52 506.5zM150.55 506.55v-.05zM150.56 506.58zM153.79 504.33a.69.69 0 01.25.26c.14.24.14.5 0 .58l-2.38 1.35-.35.2.35.62 2.36 4.08c.14.24.14.5 0 .58a.28.28 0 01-.25 0 .69.69 0 01-.25-.26l-2.94-5.09a1.42 1.42 0 01-.08-.18.49.49 0 010-.17.26.26 0 01.11-.23l3-1.69a.24.24 0 01.18-.05z"
+                fill="#516cb3"
+              />
+              <path
+                d="M161.62 509.07a4 4 0 01.33 1.56 1.63 1.63 0 01-.65 1.46 1.56 1.56 0 01-1.65-.14l-8-4.61-.35-.62.35-.2 8 4.61a1.09 1.09 0 001.14.11 1.15 1.15 0 00.46-1 3.07 3.07 0 00-.23-1.08l-3.81-9.49c-.11-.26-.05-.47.12-.49a.28.28 0 01.18 0 .65.65 0 01.3.37zM141.09 489.77a.47.47 0 00-.15-.13.86.86 0 01.15.13zM141.13 489.81zM141.28 490.12z"
+                fill="#516cb3"
+              />
+              <g fill="#516cb3">
+                <path d="M155.3 494.67l.07.05-.08-.06z" />
+                <path d="M156.38 489.79a.24.24 0 01.09.06.75.75 0 01.26.64l-1 4.11a.21.21 0 010 .11.14.14 0 01-.11.06.31.31 0 01-.19 0l-.08-.06-4.08-3.49a.72.72 0 01-.26-.64c0-.17.18-.21.34-.11h.09l3.26 2.79.48.41.12-.49.79-3.29c-.01-.15.13-.19.29-.1z" />
+              </g>
+              <path
+                d="M149.27 480.77a5 5 0 012 2.41l4 10-.12.49-.48-.41-4-10a3.39 3.39 0 00-1.36-1.67 1 1 0 00-1.36.1l-4.51 5.93c-.06.09-.18.09-.3 0a.72.72 0 01-.3-.79l4.5-5.93a1.44 1.44 0 011.93-.13zM140.94 489.64l.18.15v.07a.41.41 0 010 .09.64.64 0 01.06.18l1.19 5.29c.06.25 0 .41-.24.37h-.1a.74.74 0 01-.33-.48l-1-4.32-.12-.56-.54-.13-3.15-.73h-.11a.74.74 0 01-.33-.48c-.06-.25 0-.41.24-.37l4 .93z"
+                fill="#516cb3"
+              />
+              <path
+                d="M147.71 504.24a.77.77 0 01.35.61c0 .23-.16.32-.35.2l-9-5.17a5.05 5.05 0 01-2.3-4 1.87 1.87 0 01.34-1.17l3.38-4.44.54.13.12.56-3.44 4.52a1.37 1.37 0 00-.23.81 3.34 3.34 0 00.44 1.54 3.29 3.29 0 001.15 1.22zM155.37 494.72a.31.31 0 00.19 0 .31.31 0 01-.19 0z"
+                fill="#516cb3"
+              />
+            </g>
+          </g>
         </g>
       </g>
     </svg>
