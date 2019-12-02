@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect, useMemo } from 'react';
-import { TweenMax, TimelineMax, Power3, Elastic } from 'gsap';
+import { TweenMax, TimelineMax, Power3, Elastic, Linear } from 'gsap';
 
 import './style.scss';
 
@@ -10,26 +10,32 @@ export default function HeroSVG() {
   const boat = useRef(null);
   const robot2 = useRef(null);
   const robot1 = useRef(null);
+  const car = useRef(null);
 
   useEffect(() => {
     const glideIn = new TimelineMax({ paused: true });
     glideIn
       .fromTo(plant.current, 0.6, { ease: Power3.easeOut, opacity: 0, x: -100 }, { opacity: 1, x: 0 }, 0.2)
-      .fromTo(frame.current, 0.6, { ease: Power3.easeOut, opacity: 0, x: 100 }, { opacity: 1, x: 0 }, 0.2)
+      .fromTo(frame.current, 0.6, { ease: Power3.easeOut, opacity: 0, x: 100 }, { opacity: 1, x: 0 }, 0.2);
 
     setTimeout(() => {
       glideIn.play();
     }, 1500);
 
-    const fadeIn = new TimelineMax();
+    const fadeIn = new TimelineMax({ paused: true });
     fadeIn
-      .fromTo(boat.current, 0.6, { ease: Power3.easeIn, opacity: 0 }, { opacity: 1 }, 0.4)
-      .fromTo(robot2.current, 0.6, { ease: Power3.easeIn, opacity: 0 }, { opacity: 1 }, 0.4)
-      .fromTo(robot1.current, 0.6, { ease: Power3.easeIn, opacity: 0 }, { opacity: 1 }, 0.4)
+      .fromTo(boat.current, 0.5, { ease: Power3.easeIn, opacity: 0 }, { opacity: 1 })
+      .fromTo(robot2.current, 0.5, { ease: Power3.easeIn, opacity: 0 }, { opacity: 1 })
+      .fromTo(robot1.current, 0.5, { ease: Power3.easeIn, opacity: 0 }, { opacity: 1 });
 
     setTimeout(() => {
       fadeIn.play();
     }, 2100);
+
+    const carTL = new TimelineMax({ repeat: -1, yoyo: true });
+    carTL
+      .to(car.current, 4, { ease: Linear.easeInOut, x: -100, y: -57 }, 1);
+
 
   }, []);
 
@@ -660,7 +666,7 @@ export default function HeroSVG() {
                 </g>
               </g>
               <g clipPath="url(#prefix__q)">
-                <g id="car">
+                <g id="car" ref={car}>
                   <path
                     fill="#4a6cb8"
                     d="M370.08 445.2l9.44-5.8-9.12-1.13-.32 6.93zM410.29 468.45l9.44-5.8-9.12-1.13-.32 6.93z"
