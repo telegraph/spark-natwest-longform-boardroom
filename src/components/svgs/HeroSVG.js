@@ -44,7 +44,7 @@ export default function HeroSVG() {
 
     const boatTL = new TimelineMax({ repeat: -1, yoyo: true });
     boatTL
-      .to(boat.current, 4.5, { ease: Elastic.easeInOut.config(0.5, 0.3), x: -8, y: 10 }, 1.5);
+      .to(boat.current, 6, { ease: Elastic.easeInOut.config(0.5, 0.3), x: -8, y: 10 });
 
     // const robotTL = new TimelineMax({ repeat: -1, yoyo: true });
     // robotTL
