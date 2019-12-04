@@ -2,7 +2,7 @@ import React, {
   useState, useRef, useEffect, useMemo,
 } from 'react';
 import {
-  TweenMax, TimelineMax, Power3, Elastic, Linear,
+  TweenMax, TimelineMax, Power3, Elastic, Linear, Power1, Slow, Power4
 } from 'gsap';
 
 import './style.scss';
@@ -40,11 +40,16 @@ export default function HeroSVG() {
 
     const carTL = new TimelineMax({ repeat: -1, yoyo: true });
     carTL
-      .to(car.current, 8, { ease: Linear.easeInOut, x: -100, y: -57 }, 1);
+      .to(car.current, 8, { ease: Linear.easeInOut, x: -150, y: -87 }, 1);
 
     const boatTL = new TimelineMax({ repeat: -1, yoyo: true });
     boatTL
-      .to(boat.current, 6, { ease: Elastic.easeInOut.config(0.5, 0.3), x: -8, y: 10 });
+      .to(boat.current, 4, { ease: Linear.easeIn, y: 10 }, 0.4);
+    
+    const boatFloat = new TimelineMax({ repeat: -1, yoyo: true })
+    boatFloat
+      .to(boat.current, 3, { ease: Power1.easeIn, rotation: 2, transformOrigin: 'center center' }, 0.2);
+      // .duration(4);
 
     // const robotTL = new TimelineMax({ repeat: -1, yoyo: true });
     // robotTL
@@ -52,7 +57,7 @@ export default function HeroSVG() {
 
     const leavesTL = new TimelineMax({ repeat: -1, yoyo: true });
     leavesTL
-      .to(leaf1.current, 1, { ease: Linear.easeInOut, opacity: 0.97 }, 0.2)
+      .to(leaf1.current, 0.6, { ease: Linear.easeInOut, opacity: 0.95 }, 0.2)
       .to(leaf2.current, 1, { ease: Linear.easeInOut, opacity: 0.97 }, 0.4)
       .to(leaf3.current, 1, { ease: Linear.easeInOut, opacity: 0.97 }, 0.8);
   }, []);
