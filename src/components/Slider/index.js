@@ -56,7 +56,7 @@ function Slider({ link }) {
   return (
     <div className="slider" id={link || ''}>
       <h2 className="slider__title">
-        How to get information on exporting
+        What can mid-sized businesses do to future-proof their operations?
       </h2>
       <div className="slider__bg" />
       <div className="slider__container"
