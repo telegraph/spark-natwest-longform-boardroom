@@ -32,18 +32,18 @@
     }
   }
 
-  .vertical-slider__title:before {
-    content: "";
-    background: url('../../assets/gradient.png' );
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 300%;
-    width: 200%;
-    bottom: -93px;
-    position: absolute;
-    right: -62%;
-    z-index: -1;
-   }
+  // .vertical-slider__title:before {
+  //   content: "";
+  //   background: url('../../assets/gradient.png' );
+  //   background-repeat: no-repeat;
+  //   background-size: contain;
+  //   height: 300%;
+  //   width: 200%;
+  //   bottom: -93px;
+  //   position: absolute;
+  //   right: -62%;
+  //   z-index: -1;
+  //  }
 
   .vertical-slider__container {
     position: relative;
