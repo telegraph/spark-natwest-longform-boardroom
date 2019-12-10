@@ -21,11 +21,12 @@ import iot from './assets/flip/iot.svg';
 import revolution from './assets/flip/revolution.svg';
 
 // case studies slider
-import japan from './assets/case-studies/japan.png';
-import india from './assets/case-studies/india.png';
-import dubai from './assets/case-studies/dubai.png';
-import spain from './assets/case-studies/spain.png';
-import france from './assets/case-studies/france.png';
+import brexit from './assets/case-studies/brexit.svg';
+import digital from './assets/case-studies/digital.svg';
+import globalisation from './assets/case-studies/globalisation.svg';
+import productivity from './assets/case-studies/productivity.svg';
+import sustainability from './assets/case-studies/sustainability.svg';
+import talent from './assets/case-studies/talent.svg';
 
 // how to future slider assets
 import teethImg from './assets/futue-proof-slider/ortodontics.svg';
@@ -78,23 +79,20 @@ export const FiveGTimeline = [
 
 export const shopSlider = [
   {
-    copy: 'The website <a href="https://opentoexport.com" target="_blank" rel="noreferrer noopener">Open to Export</a> has free advice on most aspects of exporting, including how to select markets, reach customers and get paid.',
+    title: 'Train employees',
+    copy: 'Training is key to helping employees adapt to the new digital economy, says Nick Matthews, vice president EMEA at HR firm Culture Amp. “One way to succeed is to invest in your people,” he says. “Put in place a clear learning and development plan to help employees retrain for the skills they need in the new digital economy and create a culture of continuous learning.”',
   },
   {
-    copy:
-      'The <a href="https://gov.uk/government/organisations/department-for-international-trade" target="_blank" rel="noopener noreferrer">Department for International Trade website</a> has in-depth advice for exporters, including how to create an export plan, manage payment and do business in other countries.',
+    title: 'Work more flexibly',
+    copy: 'Today’s workers increasingly expect to work flexibly, and from home – and embracing this can save businesses money, says Jonathan Corrie, chief executive at Precursive.<br/><br/> Mr Corrie says: “Technology can help to create a more agile workforce whereby people and their skills are fluidly matched to the work they are most qualified for, creating a more engaged workforce as well as huge time and cost savings for business.”',
   },
   {
-    copy: '<a href="https://export.org.uk" target="_blank" rel="noreferrer noopener">The Institute of Export & International Trade website</a> offers free tips for non-members.',
+    title: 'Focus on employees',
+    copy: 'Businesses of the future will automate dreary tasks and focus on employee satisfaction, says Charles Towers-Clark, group chief executive of Pod Group, and author of The Weird CEO: How to lead in a world dominated by AI. “These companies will attract employees who are able to take initiative, responsibility and will be able to work with in close conjunction with AI,” he says.',
   },
   {
-    copy: 'Businesses hoping to export should speak to the Department for International Trade (DIT). ',
-  },
-  {
-    copy: 'Local chambers of commerce and British embassies can also offer useful information to companies hoping to export goods or services.',
-  },
-  {
-    copy: '<a href="https://ad.doubleclick.net/ddm/trackclk/N8083.124621MSNUK/B22370404.240723500;dc_trk_aid=443465896;dc_trk_cid=105350124;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=" target="_blank" rel="noreferrer noopener">For more information visit the NatWest Rethinking Business Hub.</a>',
+    title: 'Innovate',
+    copy: 'Businesses of the future need to be able to adopt new ideas rapidly, and use these to disrupt their sectors, says IDEA’s Dr McCabe.<br/><br/> Dr McCabe says: “The most important thing is that there is a spirit of considering ways to deliver value and speed of service. As the most successful businesses of recent years have demonstrated, being unique and able to reimagine what customers need is crucial.”',
   },
 ];
 
@@ -153,39 +151,69 @@ export const retainTalent = [
 export const verticalSlider = [
   {
     copy:
-      'Tariffs are taxes imposed by governments on products imported from another country',
-    coordTop: '15',
+      'In 2018, there were 2.2 million more small businesses than in 2000, a rise of 63pc, according to government statistics',
+    coordTop: '10',
     coordRight: '60',
   },
   {
     copy:
-      'In theory, tariffs make consumers buy locally produced goods by adding to the price of imports',
-    coordTop: '35',
+      'There are 55,400 mid-sized businesses in the UK, accounting for up to 2pc of the economy',
+    coordTop: '20',
     coordRight: '15',
   },
   {
     copy:
-      'They have become a major political issue in the Brexit process because of uncertainty over the tariffs that will be charged on British goods when the UK leaves the EU',
-    coordTop: '50',
+      'Mid-sized businesses are firms with annual turnover between £5m and £250m',
+    coordTop: '30',
     coordRight: '42',
   },
   {
     copy:
-      'Worries over a trade war are also affecting the global economy after US President Donald Trump introduced a 10pc tariff affecting £150bn of Chinese imports',
-    coordTop: '65',
+      'Some mid-sized businesses expect sales growth of up to 10pc per year',
+    coordTop: '40',
     coordRight: '20',
   },
   {
     copy:
-      'Tariffs are seen as protectionist, part of a policy of restricting international trade to boost a domestic economy',
-    coordTop: '75',
+      'Around three-quarters (73pc) of mid-sized businesses export outside the UK, with only a fifth not trading internationally',
+    coordTop: '50',
     coordRight: '65',
   },
   {
     copy:
-      'Protectionist policies can drive up prices for consumers and harm trade if other countries retaliate with their own tariffs',
+      'Businesses of this size are concerned about costs, with 38pc citing their customers’ price expectations as a challenge, and 37pc citing their own costs as a challenge',
+    coordTop: '60',
+    coordRight: '20',
+  },
+  {
+    copy:
+      'Sustainability is an increasing concern for such businesses, with 65pc having committed to ethical behaviour through corporate social responsibility programmes',
+    coordTop: '70',
+    coordRight: '70',
+  },
+  {
+    copy:
+      'Finding employees with the right skills remains a problem, with 48pc of businesses in the professional services struggling to find talent',
+    coordTop: '80',
+    coordRight: '10',
+  },
+  {
+    copy:
+      'Three-quarters of all British businesses are in the service industries, according to government statistics',
+    coordTop: '90',
+    coordRight: '70',
+  },
+  {
+    copy:
+      'Businesses in retail account for 19pc of employment in Britain, according to government statistics',
+    coordTop: '100',
+    coordRight: '50',
+  },
+  {
+    copy:
+      'Manufacturing firms account for just 5pc of businesses, but 10pc of employment, according to government statistics',
     coordTop: '85',
-    coordRight: '30',
+    coordRight: '35',
   },
 ];
 
@@ -218,18 +246,21 @@ export const flipBoardData = [
 
 export const basicSlider = [
   {
-    img: japan, title: 'Japan', copy: '“Bowing is customary in several countries. In Japan it is the basic way of greeting people in a business context, instead of shaking hands”',
+    img: brexit, title: 'Brexit', copy: 'Brexit has overshadowed Britain’s national debate for more than three years, and it’s no surprise that even in 2018 most mid-sized businesses listed it as the single biggest challenge they face.<br/><br/> NatWest research found that 85pc of exporting mid-sized businesses sell into EU markets. In response, 14pc of such businesses have established new offices in EU countries. Rick Smith, managing director of company rescue and insolvency specialist Forbes Burton, says: “The main challenge at the moment is uncertainty. Uncertainty means that plans, strategies and tactics are very hard to form, and if they are formed there have to be multiple variations to be able to respond to any outcomes.”',
   },
   {
-    img: india, title: 'India', copy: 'Saying “no” can be considered rude, so try to talk around problems and be vague rather than outright negative.',
+    img: digital, title: 'Rise of digital', copy: 'Businesses in the technology sector are among the most optimistic about future growth in their sector, recent NatWest research has found.<br/><br/> The research found that more than two-thirds of businesses in the technology, media and telecoms sector (68pc) anticipated productivity growth. Rob Orr, executive director, Virgin Media Business, says: “Digital transformation doesn’t stop – you will never reach a point of being ‘digitally transformed’. It’s a continuous journey of improvement, one small change at a time.”',
   },
   {
-    img: dubai, title: 'Dubai', copy: 'In many Middle Eastern countries, it is quite normal to make guests wait.',
+    img: globalisation, title: 'Globalisation', copy: 'The globalisation of trade offers both opportunities and challenges for Britain’s mid-sized businesses, says Masha Cilliers, specialist payments partner at iBe, the financial services advisory firm.<br/><br/> Ms Cilliers says: “On the one hand they are being pressured by international players in their own domestic markets – losing loyal customers and competition forcing down prices. On the other hand, the barriers to entering global markets are lowering; online sales have opened up the global market in a way never experienced before.”',
   },
   {
-    img: spain, title: 'Spain', copy: 'In Spanish law, verbal contracts can be legally binding, so be careful what you say.',
+    img: sustainability, title: 'Sustainability', copy: 'Sustainability is an increasing focus for Britain’s mid-sized businesses, with many now investing in technology and training to meet the demands of an increasingly climate-conscious world. NatWest research found that 58pc of mid-sized businesses regard sustainability as extremely or very influential on their business decision making. When asked which key sustainability initiatives have you engaged with in the last three years, 62pc said they had invested in new tech for energy efficiency and 66pc had conducted an energy audit.<br/><br/> “Businesses now have to deliver the so-called ‘triple bottom line’: profit, people and planet,” says Jon Tipple, global chief strategy officer at FutureBrand. “Business leaders need to ensure the accountability of their businesses so they deliver the good that citizens, societies and their owners really need, versus just satisfying the whim of the chief executive.”<br/><br/> But the climate emergency poses as much of an opportunity as a challenge for mid-sized businesses, Professor Roper says. “We are obsessed with Brexit but much of the rest of the world is focused on the ‘climate emergency’,” he says. “Massive opportunities exist for companies with low-carbon, green technologies and products.”',
   },
   {
-    img: france, title: 'France', copy: 'Be formal, especially on the first meeting, and address people as “Monsieur” and “Madame”.',
+    img: talent, title: 'Talent', copy: 'Attracting and retaining talent is a key challenge for Britain’s mid-sized businesses, the NatWest report found. Many mid-sized business rated recruitment and staff retention as one of the biggest challenges they faced, with 41pc having problems attracting employees with the right skills, and 38pc having difficulty retaining key employees.<br/><br/> Harry Hortyn, co-founder of Oxford Summer Courses, says communication is key: “Providing clarity, both financially and in defining role responsibilities, is essential for attracting and retaining talent.”',
+  },
+  {
+    img: productivity, title: 'Productivity', copy: 'Productivity remains a key concern for Britain’s mid-sized businesses, although many are optimistic about their current situation. In NatWest’s survey, 55pc of mid-sized businesses reported they had experienced productivity growth in the past 12 months –  while 41pc said productivity levels are a strategic concern.<br/><br/> Paul Smith, executive vice president and general manager UK at Salesforce, says: “Automation will be key to increasing national productivity; businesses must work to ensure that employees have the skills they will need for jobs in the digital economy.”',
   },
 ];
